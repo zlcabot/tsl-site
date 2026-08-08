@@ -1,5 +1,5 @@
 [build]
-  command = "npx quartz build && node scripts/build-llms-full.mjs"
+  command = "npx quartz build && node scripts/build-llms-full.mjs && node scripts/inject-jsonld.mjs"
   publish = "public"
 
 [build.environment]

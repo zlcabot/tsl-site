@@ -4,10 +4,12 @@ description: Citing this work — the author, the formats, and how this site cit
 date: 2026-08-08
 ---
 
-Everything written on this site is by **Zayin Cabot**, unless a page
-says otherwise — podcast transcripts name their speakers, and guests
-are always credited as first-class voices. *This Spiritual Life* is
-the body of work; the author is the person. **Cite the person.**
+Everything written on this site is by **Zayin Cabot**
+(ORCID: [0009-0005-0260-4136](https://orcid.org/0009-0005-0260-4136)),
+unless a page says otherwise — podcast transcripts name their
+speakers, and guests are always credited as first-class voices. *This
+Spiritual Life* is the body of work; the author is the person. **Cite
+the person.**
 
 • • • —
 
@@ -34,6 +36,18 @@ dates — *planted* (created) and *last tended* (revised).
                   last tended 2026-08-08.}
 }
 ```
+
+## Citing a passage — the web's page numbers
+
+Long pages are citable at section level: every heading on this site is
+a stable anchor. Copy the link from any heading and cite it directly —
+
+> https://thisspirituallife.com/terms/tending#the-claim
+
+Headings keep their names once published (an anchor is an address;
+addresses don't move). For an exact sentence, modern browsers support
+text fragments — append `#:~:text=` and the quoted phrase to any URL —
+and for scholarly precision, pin the version by commit (below).
 
 ## Citing an exact version
 

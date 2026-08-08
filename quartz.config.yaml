@@ -235,7 +235,8 @@ plugins:
   - source: "@quartz-community/footer"
     enabled: true
     options:
-      links: {}
+      links:
+        How to cite: https://thisspirituallife.com/citing
     layout:
       position: footer
       priority: 50
