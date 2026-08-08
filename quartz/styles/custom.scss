@@ -31,3 +31,10 @@ h3 {
   font-size: 0.75rem;
   letter-spacing: 0.02em;
 }
+
+// Color never titles. Titles are ink; color draws the eye only where
+// reaching happens — links, dates, the rare toward.
+.page-title,
+.page-title a {
+  color: var(--dark);
+}
