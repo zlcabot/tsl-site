@@ -1,0 +1,7 @@
+# This Spiritual Life — fully open corpus.
+# Search and AI crawlers are welcome, including for model training.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://thisspirituallife.com/sitemap.xml
