@@ -1,3 +1,33 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ─── TSL brand (03-brand-style-guide v0.1) ──────────────────────────────
+// System fonts only: Georgia everywhere, identical on every platform.
+// Zero webfont requests — typography that cannot break or expire.
+
+:root {
+  --titleFont: Georgia, "New York", "Times New Roman", serif;
+  --headerFont: Georgia, "New York", "Times New Roman", serif;
+  --bodyFont: Georgia, "New York", "Times New Roman", serif;
+  --codeFont: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+
+// Read, don't skim: book-like measure and breath.
+body {
+  font-size: 1.0625rem; // ~17px
+  line-height: 1.7;
+}
+
+// Sentence-case discipline lives in the writing; headers stay quiet here.
+h1,
+h2,
+h3 {
+  font-weight: 400; // Georgia bolds loudly; regular weight reads calmer
+}
+
+// Provenance marks (dates, reading time) in the record texture: mono, muted.
+.content-meta,
+.meta {
+  font-family: var(--codeFont);
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+}
