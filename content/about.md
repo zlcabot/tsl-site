@@ -6,18 +6,19 @@ date: 2026-08-08
 
 **Zayin Cabot** is a scholar-practitioner. He holds a B.A. in
 comparative philosophy from the University of Hawaiʻi (Sanskrit,
-Buddhism, Indian philosophy) and an M.A. and Ph.D. in East–West
-Psychology from the California Institute of Integral Studies, and
-taught philosophy and religion at California State University, East
-Bay for seven years before leaving academia. His first book,
-*Ecologies of Participation*, laid the groundwork for this body of
+Buddhism, Indian philosophy) and a Ph.D. in East–West Psychology from
+the California Institute of Integral Studies. He taught comparative
+philosophy and religion at California State University, East Bay for
+six years, and later led learning and leadership development in
+industry and at Lawrence Livermore National Laboratory. His first
+book, *Ecologies of Participation: Agents, Shamans, Mystics, and
+Diviners* (Lexington, 2018), laid the groundwork for this body of
 work. Alongside the scholarship he has kept a practicing life: zazen
-since his mid-twenties; initiation as a diviner and elder in the West
-African Dagara tradition through two decades with Malidoma Somé;
-ongoing engagement with Buddhist and nondual Śaiva communities. He
-lives with his family in the Bay Area, hosts the This Spiritual Life
-podcast, and sometimes guides people in a practice he calls embodied
-liberation.
+begun in his late twenties; initiation as a diviner and elder in the
+West African Dagara tradition through fourteen years with Malidoma
+Somé; ongoing engagement with Buddhist and nondual Śaiva communities.
+He lives with his family, hosts the This Spiritual Life podcast, and
+sometimes guides people in a practice he calls embodied liberation.
 
 • • • —
 
