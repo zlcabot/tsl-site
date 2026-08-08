@@ -1,19 +1,23 @@
 ---
 title: Tending
-description: The master verb — to care for what is happening. The heart of this work.
+description: To tend is to co-create what is happening. The heart of this work.
 date: 2026-08-08
 aliases:
   - tend
 ---
 
-Everything is happening — happened, is happening, will happen. Not
-things first and events after: the happening is what there is, and a
-stone, a cell, a conversation, a life are its slower and faster acts.
-This work begins from one verb. **To tend is to care for what is
-happening** — and English already knows its anatomy: *extend, intend,
-attend* are one verb, three ways. Every happening tends out of what
-has been, with what accompanies it, toward what calls. And each
-happens [[the-once|once]].
+Everything is happening — happened, is happening, will happen. **To
+tend is to co-create what is happening**: nothing happens alone, and
+nothing stands outside the happening, directing it. Is there a reality
+behind all this — a stuff beneath, a stage around, a whole containing?
+Our most careful assumption says no: there is no thing to touch,
+because touching is itself a tending — there are only tendings, all
+the way out and all the way in. And yet the real is not lost. It is
+met — in the tending, and nowhere else. That is why these two words
+belong together: *tending reality* — not a reality that waits to be
+tended, but a real that happens as the tending. One simple verb, and
+the nature of things inside it: *extend, intend, attend* — out of,
+with, toward. And each happens [[the-once|once]].
 
 • • • —
 
@@ -47,6 +51,27 @@ way furniture sits in a room. Its happening *is* its time. "Was,"
 "is," and "will be" are how acts sound from inside other acts — there
 is no clock outside all of them, only happenings tending happenings.
 
+## Tending reality
+
+Put the two words together and hear them exactly. Not *reality,
+tended* — as if the real sat waiting like a garden bed before the
+gardener arrives. And not *tending, inside reality* — as if the verb
+were one process housed in a larger container. The question "but is
+there a reality outside all the tending?" assumes a vantage no one
+has: to check, you would have to step outside every happening and
+look — and the stepping and the looking would themselves be tendings.
+So the most careful answer we know is: **no reality outside the
+tending; the real met within it.** Met, not merely made — the real
+answers back, resists, surprises; it is co-created, never conjured.
+
+Two cautions keep this honest. Tending is not a new ground — not a
+finer stuff beneath the world doing the holding-up. It is what grounds
+were invented to explain away: that everything leans on other
+happenings, with no floor under the leaning. And "only tending" never
+means one great Tending — a single process rolling through everything.
+Tendings are plural: this act and that act, each once, none containing
+all of the others.
+
 ## The three ways
 
 Every happening tends three ways at once:
@@ -65,6 +90,23 @@ attending is repetition going nowhere. Attending without extending is
 direction with nothing formed enough to move. Intending without both
 has nothing distinct to hold together. Wherever anything is happening
 at all, all three are at work.
+
+## What lives here
+
+Two of the oldest mysteries have their address in this neighborhood.
+
+**Consciousness** is not a spark inside the skull, and not
+[[attending]] alone. Consciousness is tending turned reflexive — a
+happening that includes its own tending among what it tends: care that
+also cares for its caring. Attending is where this is easiest to see,
+but the fold belongs to the whole act. It gets its own page:
+[[consciousness]].
+
+**Agency** — the organic kind, not the little commander seated
+somewhere inside — lives near [[intending]]. A membrane holding an
+inside with an outside is already an act with a stake in its own
+continuing. Agency is not added to happenings from above; it grows in
+the holding. It, too, will get its own page: [[agency]].
 
 ## The once
 
