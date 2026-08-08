@@ -1,30 +1,43 @@
 ---
 title: Extending
-description: Stretching out of what has been, into this — the direction of inheritance and body.
+description: Out of — what has been, alive in the act. The embodied way of tending.
 date: 2026-08-08
 ---
 
-*Ex-tendere*: to stretch out. Extending is the first direction of
-[[tending]] — the stretch **out of what has been, into this**.
+Extending is [[tending]] **out of** — what has been, alive in what is
+happening. A body carries its ancestry in every cell. A word carries
+every mouth that shaped it. This sentence is a language thousands of
+years deep, acting now. The has-been is not behind the happening — it
+is what the happening is made of.
 
-Everything happening now is made of inheritance. A body carries its
-ancestry in every cell. A word carries its etymology every time it is
-spoken. This sentence extends a language that thousands of years of
-speakers formed and left. Extending names the way all of that lives on
-— not behind the happening, as a past it left somewhere, but *in* it,
-as the very material of its stretch. The has-been is not gone; it is
-what the present is made of.
+• • • —
 
-This is the embodied direction: weight, form, habit, skill, bone,
-grain. When you can do something without thinking, that is extending —
-ten thousand prior doings stretching into this one.
+## The word
 
-Extending has a characteristic failure: **inertia**. The stretch that
-only repeats — form without direction, habit that has forgotten what
-it was for, the institution that persists because it persists. Healthy
-extending is not repetition but *work*: the inherited actively taken
-up, this once, into something that was not here before.
+*Ex-tendere*: to tend out of. The first of the three ways of
+[[tending]], and the one English uses most casually — we extend a
+hand, a deadline, a welcome. In each case something already formed
+reaches into what is happening now.
 
-Extending is one of three directions, and it needs the other two:
-without [[attending]] it goes nowhere, and without [[intending]] it
-has nothing to be formed *with*. See [[tending]] for the whole.
+## What it names
+
+Extending names inheritance as a live act. Not the past as a place
+behind us where things went — the has-been as the working material of
+the act underway. When you do something skilled without thinking,
+that is extending: ten thousand prior doings alive in this one. Bone,
+habit, grain, language, lineage — everything a happening did not
+invent but cannot happen without.
+
+## The failure
+
+Extending's characteristic failure is **inertia**: repetition that has
+stopped tending. Form without direction, habit that has forgotten what
+it was for, the institution that persists because it persists. The
+health of extending is the opposite of repetition — the inherited
+actively taken up, this once, into something that was not here before.
+
+## Relations
+
+One of three ways of one act: without [[attending]] extending goes
+nowhere, and without [[intending]] it has nothing to be formed with.
+The whole is at [[tending]].

@@ -7,6 +7,6 @@ This is the home of **This Spiritual Life** — a linked garden of ideas
 rather than a feed. The site is young; the corpus is arriving.
 
 It begins where the work begins: with **[[tending]]** — one verb, three
-directions, and everything that follows from taking it seriously.
+ways, and everything that follows from taking it seriously.
 
 In the meantime, the podcast continues wherever you listen.

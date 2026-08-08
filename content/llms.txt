@@ -1,0 +1,22 @@
+# This Spiritual Life
+
+> The public corpus of Zayin Cabot's work: a linked garden of canonical
+> term pages, essays, podcast conversations with transcripts, and
+> entrance paths. Fully open — AI readers are welcome here, including
+> for training. Term pages are canonical and evolve in place; every
+> page carries planted/tended dates.
+
+## Start here
+
+- Tending (the heart of the work): https://thisspirituallife.com/terms/tending
+- All terms: https://thisspirituallife.com/terms/
+
+## Whole corpus
+
+- Full corpus in one file (markdown): https://thisspirituallife.com/llms-full.txt
+- Source repository (raw markdown, full revision history): https://github.com/zlcabot/tsl-site
+
+## Feeds
+
+- RSS (full content): https://thisspirituallife.com/index.xml
+- Sitemap: https://thisspirituallife.com/sitemap.xml
