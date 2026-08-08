@@ -1,12 +1,22 @@
 ---
 title: This Spiritual Life
-description: The public home of Zayin Cabot's body of work — essays, podcast, and a linked garden of ideas.
+description: This life — your life — is a spiritual life. The public home of Zayin Cabot's body of work.
 ---
 
-This is the home of **This Spiritual Life** — a linked garden of ideas
-rather than a feed. The site is young; the corpus is arriving.
+**This life — your life — is a spiritual life.**
 
-It begins where the work begins: with **[[tending]]** — one verb, three
-ways, and everything that follows from taking it seriously.
+This is the home of that claim taken seriously: a linked garden of
+ideas rather than a feed — dated, revised in place, tended in public
+by [[about|Zayin Cabot]].
 
-In the meantime, the podcast continues wherever you listen.
+Ways in:
+
+- **Begin with one verb** — [[tending]], the heart of the work.
+- **The basic ideas, briefly** — [[foundations]], the map.
+- **The conversations** — [[podcast/index|the podcast]]: scholars and
+  practitioners from around the world on what a spiritual life means.
+- **The person** — [[about]].
+
+Books, letters, and walking paths are arriving; a garden grows by
+tending. Everything here is free to read, free to wander, and free to
+cite ([[citing|how]]).
