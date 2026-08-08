@@ -5,22 +5,23 @@ date: 2026-08-08
 ---
 
 **Zayin Cabot** is a scholar-practitioner. He holds a B.A. in
-comparative philosophy from the University of Hawaiʻi (Sanskrit,
-Buddhism, Indian philosophy) and a Ph.D. in East–West Psychology from
-the California Institute of Integral Studies (CIIS). He taught
-East–West Psychology at CIIS (2012–2015) and comparative philosophy
-and religion at California State University, East Bay (2013–2019),
-and later led learning and leadership development in industry and at
-Lawrence Livermore National Laboratory. His first book, *Ecologies of
-Participation: Agents, Shamans, Mystics, and Diviners* (Lexington,
-2018), laid the groundwork for this body of work. Alongside the
-scholarship he has kept a practicing life: zazen begun in his late
-twenties; initiation as a diviner and elder in the West African
-Dagara tradition through fourteen years with Malidoma Somé; ongoing
-engagement with Buddhist and nondual Śaiva communities. He lives with
-his family in the Bay Area, hosts the This Spiritual Life podcast,
-and sometimes guides people in a practice he calls embodied
-liberation.
+comparative philosophy from the University of Hawaiʻi and a Ph.D. in
+East–West Psychology from the California Institute of Integral
+Studies (CIIS), where his doctoral work focused on comparative
+philosophy of religion under the mentorship of Jorge Ferrer. He
+taught East–West Psychology at CIIS (2012–2015) and comparative
+philosophy and religion at California State University, East Bay
+(2013–2019), then led learning and leadership development in industry
+and at Lawrence Livermore National Laboratory. His first book,
+*Ecologies of Participation: Agents, Shamans, Mystics, and Diviners*
+(Lexington, 2018), laid the groundwork for this body of work. His
+practicing life is a matter of record rather than affiliation: zazen
+begun in his late twenties; close training with Michael Harner;
+fourteen years with Malidoma Somé, including initiation as a diviner
+and elder in the West African Dagara tradition; ongoing practice in
+Buddhist and nondual Śaiva communities. He lives with his family in
+the Bay Area, hosts the This Spiritual Life podcast, and sometimes
+guides people in a practice he calls embodied liberation.
 
 • • • —
 
