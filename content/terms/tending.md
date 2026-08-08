@@ -4,6 +4,11 @@ description: To tend is to co-create what is happening. The heart of this work.
 date: 2026-08-08
 aliases:
   - tend
+canon:
+  - 01_terms/tending.md
+  - 02_laws/axiom-01-event-primacy.md
+  - 02_laws/axiom-02-triadic-irreducibility.md
+canon_synced: 2026-08-08
 ---
 
 Everything is happening — happened, is happening, will happen. **To
@@ -30,11 +35,14 @@ directions: *ex-tendere*, out of; *in-tendere*, in and with;
 intend, attend**. One verb, three prepositions, the entire anatomy of
 an act.
 
-Hear the stretch rightly, though. The ear takes "stretch" spatially —
-a rubber band, a span, a width. The stretch that matters here is
-temporal: what a note does through its sounding, what a breath does
-between its taking and its release. A tending is **a while, not a
-width** — the living-through of an act, not the length of a thing.
+But hear the verb the way English actually uses it. A vine tends
+upward. An argument tends toward its conclusion. A heart tends toward
+someone. **Inclination, leaning, pressing-toward** — not spatial
+stretch. The etymology remembers a stretching; the living verb is a
+leaning. And the leaning is temporal: what a note does through its
+sounding, what a breath does between its taking and its release. A
+tending is **a while, not a width** — the living-through of an act,
+not the length of a thing.
 
 And *tend* carries a second sense from the same source: **to care
 for**. A gardener tends. A shepherd tends. We tend a fire, the sick, a
@@ -74,22 +82,22 @@ all of the others.
 
 ## The three ways
 
-Every happening tends three ways at once:
+Every happening tends three ways at once — and the three are not
+parts, not ingredients, but one verb in three inflections:
 
-- **[[extending]]** — *out of*: what has been, alive in this act —
-  inheritance, body, the has-been as the very material of the
-  happening.
-- **[[intending]]** — *with*: the between of happenings — the
-  membrane, the holding of different acts in one shared while.
-- **[[attending]]** — *toward*: care's direction — the leaning of a
-  happening toward what calls it.
+- **[[extending]]** — *out of*: intensification — the becoming so
+  intense that form erupts. Felt, immediate, embodied. Every act
+  extends out of completed acts, taken up in the erupting, this once.
+- **[[intending]]** — *with*: tension as constitution — the membrane
+  that makes inside and outside faces of one another; different
+  happenings held in one shared while.
+- **[[attending]]** — *toward*: the arc — the way every act orients,
+  faces, and curves toward its completing, before any plan or purpose.
 
-These are not parts, and not ingredients that combine. They are three
-ways of one act, and none reduces to the others. Extending without
-attending is repetition going nowhere. Attending without extending is
-direction with nothing formed enough to move. Intending without both
-has nothing distinct to hold together. Wherever anything is happening
-at all, all three are at work.
+None reduces to the others, and none exists without the others: there
+is no relating with nothing to relate, and no oriented arc without the
+relating that makes its poles poles of *one* act. Wherever anything is
+happening at all, all three are at work.
 
 ## What lives here
 
@@ -102,11 +110,13 @@ also cares for its caring. Attending is where this is easiest to see,
 but the fold belongs to the whole act. It gets its own page:
 [[consciousness]].
 
-**Agency** — the organic kind, not the little commander seated
-somewhere inside — lives near [[intending]]. A membrane holding an
-inside with an outside is already an act with a stake in its own
-continuing. Agency is not added to happenings from above; it grows in
-the holding. It, too, will get its own page: [[agency]].
+**Agency** is that fold at the human scale — **a doing, never a
+doer**. Not a little commander seated somewhere inside: agency is
+tending gone reflexive, the act that knows it acts and knows it
+completes. Its roots run deep — a membrane holding itself together
+already has a stake in its own continuing — but agency proper is that
+stake become aware of itself. It, too, will get its own page:
+[[agency]].
 
 ## The once
 

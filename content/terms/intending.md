@@ -1,14 +1,17 @@
 ---
 title: Intending
-description: With — the between of happenings; the membrane; the holding of difference in one shared while.
+description: With — tension as constitution; the membrane; different happenings held in one shared while.
 date: 2026-08-08
+canon:
+  - 01_terms/intending.md
+canon_synced: 2026-08-08
 ---
 
-Intending is [[tending]] **with** — the between of happenings. Not the
-everyday "having a plan": something older and structural — the holding
-of different acts in one shared while, each kept different, each kept
-in relation. A cell's membrane does it. A real conversation does it.
-Nothing happens alone.
+Intending is [[tending]] **with** — tension as constitution: the
+holding by which different happenings keep one shared while, each
+kept different, each kept in relation. Not the everyday "having a
+plan" — something older and structural. A cell's membrane does it. A
+real conversation does it. Nothing happens alone.
 
 • • • —
 
@@ -23,10 +26,11 @@ one verb.
 ## What it names
 
 The best picture is the living cell's membrane. A membrane is not a
-wall and not an opening; it is the holding of an inside *with* an
-outside — each kept different, each kept in relation, neither
-collapsing into the other. Life begins there: not in the stuff on
-either side but in the holding.
+wall between two things that were already there. It *constitutes*
+inside and outside as faces of one another — each kept different,
+each kept in relation, and the membrane nothing apart from that
+constituting. Life begins there: not in the stuff on either side but
+in the holding.
 
 Or a real conversation: not your words, not mine, but the between
 that makes them answers to each other. That between is not a third
@@ -41,10 +45,11 @@ Intending's characteristic failure is **fragmentation**: the with lets
 go, and what was held-in-difference falls into pieces that no longer
 answer each other — the conversation that becomes two monologues, the
 community that becomes a crowd. Its health is the rarest of skills:
-holding difference without dissolving it.
+holding difference without dissolving it — with-ness that never
+requires sameness.
 
 ## Relations
 
 One of three ways of one act: without [[extending]] and [[attending]]
-there is nothing distinct to hold and nowhere for the holding to
-reach. The whole is at [[tending]].
+there is nothing distinct to hold and no arc for the holding to
+travel. The whole is at [[tending]].

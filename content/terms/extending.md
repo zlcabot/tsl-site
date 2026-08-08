@@ -1,43 +1,55 @@
 ---
 title: Extending
-description: Out of — what has been, alive in the act. The embodied way of tending.
+description: Out of — intensification; the eruption into form. The embodied way of tending.
 date: 2026-08-08
+canon:
+  - 01_terms/extending.md
+canon_synced: 2026-08-08
 ---
 
-Extending is [[tending]] **out of** — what has been, alive in what is
-happening. A body carries its ancestry in every cell. A word carries
-every mouth that shaped it. This sentence is a language thousands of
-years deep, acting now. The has-been is not behind the happening — it
-is what the happening is made of.
+Extending is [[tending]] **out of** — intensification: the becoming so
+intense that it cannot remain what it was, and form erupts. Felt,
+immediate, embodied. A wave breaking, a crystal forming, a word finally
+said. Every act extends out of acts already completed — but the
+has-been is not carried like cargo. It is taken up in the erupting,
+this once, now.
 
 • • • —
 
 ## The word
 
 *Ex-tendere*: to tend out of. The first of the three ways of
-[[tending]], and the one English uses most casually — we extend a
-hand, a deadline, a welcome. In each case something already formed
-reaches into what is happening now.
+[[tending]] — the *out of* by which an act becomes, and by which it
+arises out of the completed acts before it.
 
 ## What it names
 
-Extending names inheritance as a live act. Not the past as a place
-behind us where things went — the has-been as the working material of
-the act underway. When you do something skilled without thinking,
-that is extending: ten thousand prior doings alive in this one. Bone,
-habit, grain, language, lineage — everything a happening did not
-invent but cannot happen without.
+Extending names the embodied intensity of happening. Not a substance
+acquiring properties, and not a form waiting somewhere to be filled:
+the intensification itself — the moment where a happening becomes so
+concentrated that form erupts. It is the felt way of tending: the
+eruption has an immediacy, a presence, a this-ness that nothing
+abstract can stand in for.
+
+It is tempting to define extending as inheritance — the past, carried
+forward. Resist the shortcut. Seen from later acts, what extending
+produces looks like inheritance: the has-been, available, determinate.
+But from inside the act there is no cargo being carried — there is
+only the taking-up of completed acts into an eruption that is
+happening now. The skilled hand does not replay ten thousand prior
+doings; the ten thousand erupt as *this* doing, whole.
 
 ## The failure
 
-Extending's characteristic failure is **inertia**: repetition that has
-stopped tending. Form without direction, habit that has forgotten what
-it was for, the institution that persists because it persists. The
-health of extending is the opposite of repetition — the inherited
-actively taken up, this once, into something that was not here before.
+Extending's characteristic failure is **inertia**: form repeating
+without tending — habit that has forgotten what it was for, the
+institution that persists because it persists, intensity gone flat
+into mere continuation. The health of extending is the eruption
+itself: the inherited actively taken up, this once, into something
+that was not here before.
 
 ## Relations
 
-One of three ways of one act: without [[attending]] extending goes
-nowhere, and without [[intending]] it has nothing to be formed with.
-The whole is at [[tending]].
+One of three ways of one act: without [[attending]] the eruption has
+no arc, and without [[intending]] it has no with to erupt in. The
+whole is at [[tending]].

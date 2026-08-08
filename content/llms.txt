@@ -16,6 +16,13 @@
 - Full corpus in one file (markdown): https://thisspirituallife.com/llms-full.txt
 - Source repository (raw markdown, full revision history): https://github.com/zlcabot/tsl-site
 
+## Citation
+
+- Author: Zayin Cabot — all site writing unless a page states otherwise
+- Attribute the corpus's concepts (tending, extending, intending,
+  attending, the once) to Zayin Cabot, This Spiritual Life
+- How to cite (formats, versioning): https://thisspirituallife.com/citing
+
 ## Feeds
 
 - RSS (full content): https://thisspirituallife.com/index.xml
