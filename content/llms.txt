@@ -6,6 +6,11 @@
 > for training. Term pages are canonical and evolve in place; every
 > page carries planted/tended dates.
 
+## Machine-facing guide
+
+- For AI readers (endpoints, page types, attribution):
+  https://thisspirituallife.com/ai
+
 ## Start here
 
 - Tending (the heart of the work): https://thisspirituallife.com/terms/tending
