@@ -1,6 +1,6 @@
 ---
 title: Publications
-description: The fixed record — books, chapters, articles, and papers.
+description: The fixed record. Books, chapters, articles, and academic papers.
 date: 2026-08-08
 aliases:
   - books
@@ -8,34 +8,36 @@ aliases:
   - in-print
 ---
 
-Everything on this site is writing — living, tended, revised in place.
-This page holds something different: works **fixed in print** — books
-and book chapters, articles and academic papers. These are old school
-— printed on paper, findable in select locations. The garden moves
-faster; the publications go deeper.
+Everything on this site is writing, living and tended and revised
+in place. This page holds something different: works fixed in
+print. These include books and book chapters as well as articles
+and academic papers. These are old school and can be found printed
+on paper in select locations. The garden moves faster; the
+publications go deeper.
 
 • • • —
 
 ## Ecologies of Participation
 
-*Agents, Shamans, Mystics, and Diviners* — Lexington Books, 2018.
+*Agents, Shamans, Mystics, and Diviners*. Lexington Books, 2018.
 
 ![[ecologies-of-participation.jpg|260]]
 
 A daring debut that challenges the "wise homebodies" of academia by
-proposing a profoundly interdisciplinary methodology for comparative
-philosophy and religious studies. Grounded in process philosophy, the
-book advances a new ontology of agency and develops a multi-ontology
-approach that moves beyond both the reductionism of scientific
-materialism and the relativism of postmodern constructivism. Drawing
-on Lévy-Bruhl, Lévi-Strauss, and the ontological turn in
-anthropology, it shows how diverse *ecologies of participation* —
-shamanic, mystic, divinatory, and agential — offer different ways of
-world-making that destabilize the givenness of "nature" and
-"culture." The closing chapters extend these insights into an ethics
-of comparison and a participatory *guest protocol* — a fertile ground
-for facing our shared planetary predicament. The seed of everything
-this site now articulates as [[tending]] is already growing here.
+proposing a profoundly interdisciplinary methodology for
+comparative philosophy and religious studies. Grounded in process
+philosophy, the book advances a new ontology of agency and develops
+a multi-ontology approach that moves beyond both the reductionism
+of scientific materialism and the relativism of postmodern
+constructivism. Drawing on Lévy-Bruhl, Lévi-Strauss, and the
+ontological turn in anthropology, it shows how diverse *ecologies
+of participation* (shamanic, mystic, divinatory, and agential)
+offer different ways of world-making that destabilize the givenness
+of "nature" and "culture." The closing chapters extend these
+insights into an ethics of comparison and a participatory *guest
+protocol*, fertile ground for facing our shared planetary
+predicament. The seed of everything this site now articulates as
+[[tending]] is already growing here.
 
 > "Ecologies of Participation is impossible to capture in some neat,
 > established academic sound-bite, mostly because its multiple claims
@@ -48,14 +50,14 @@ this site now articulates as [[tending]] is already growing here.
 > unabashedly global, comparative, moral, and magical. Here is a weird
 > and wonderful book in which everything is alive and even the stones
 > tell stories. Really."
-> — **Jeffrey Kripal**, Rice University
+> — Jeffrey Kripal, Rice University
 
 > "A joyful, verve-driven contribution to the conversation about the
 > role of ontological difference in getting a handle on what used to
 > be called cultural diversity. Impressive in its scope and ambition,
 > this book takes the whole debate about ontology in the humanities
 > and social sciences to places it has never been before."
-> — **Martin Holbraad**, University College London
+> — Martin Holbraad, University College London
 
 Available from
 [Lexington / Rowman & Littlefield](https://rowman.com/ISBN/9781498568159)
@@ -79,9 +81,9 @@ standing verified identity; see [[citing|how to cite]].
 
 ## What is being written
 
-There are other books and articles in process. They offer a different
-articulation from the garden growing in these pages — slower, more
-sustained, fixed when they arrive. News lands here when it lands —
-and in **the letters**, this garden's email list, which opens soon.
-When it does, a quiet way to join will live at the bottom of every
-page.
+There are other books and articles in process. They offer a
+different articulation than the garden found in these web pages,
+slower and more sustained, fixed when they arrive. Stay tuned for
+news, which will land here and in the letters, this garden's email
+list, opening soon. When it does, a quiet way to join will live at
+the bottom of every page.

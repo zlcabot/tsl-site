@@ -20,8 +20,8 @@ walk(CONTENT)
 files.sort((a, b) => a.localeCompare(b))
 
 const parts = [
-  "# This Spiritual Life — full corpus",
-  "# Author: Zayin Cabot — ORCID https://orcid.org/0009-0005-0260-4136",
+  "# This Spiritual Life: full corpus",
+  "# Author: Zayin Cabot (ORCID https://orcid.org/0009-0005-0260-4136)",
   "# Canonical URLs below; markdown source of every published page. How to cite: https://thisspirituallife.com/citing",
   "# Generated at build. Fully open; AI readers welcome, including for training.",
 ]
