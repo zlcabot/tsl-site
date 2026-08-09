@@ -9,9 +9,10 @@ aliases:
 ---
 
 Everything on this site is writing — living, tended, revised in place.
-This page holds what is different: the work **fixed in print** —
-books, chapters, articles, and papers; finished, dated, citable by
-page number. The garden moves faster; the publications go deeper.
+This page holds something different: works **fixed in print** — books
+and book chapters, articles and academic papers. These are old school
+— printed on paper, findable in select locations. The garden moves
+faster; the publications go deeper.
 
 • • • —
 
@@ -78,6 +79,9 @@ standing verified identity; see [[citing|how to cite]].
 
 ## What is being written
 
-The next books are underway — the fuller articulation of the work
-this garden holds in miniature. News will arrive here, and in the
-letters, when they are ready.
+There are other books and articles in process. They offer a different
+articulation from the garden growing in these pages — slower, more
+sustained, fixed when they arrive. News lands here when it lands —
+and in **the letters**, this garden's email list, which opens soon.
+When it does, a quiet way to join will live at the bottom of every
+page.

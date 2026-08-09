@@ -102,8 +102,10 @@ plugins:
   - source: "@quartz-community/citations"
     enabled: false
     order: 85
+  # Disabled: source files are hard-wrapped at ~72ch; this plugin turned
+  # every source newline into <br>, breaking reflow (visible in floats)
   - source: "@quartz-community/hard-line-breaks"
-    enabled: true
+    enabled: false
     order: 90
   - source: "@quartz-community/ox-hugo"
     enabled: false

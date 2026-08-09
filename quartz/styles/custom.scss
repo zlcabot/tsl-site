@@ -38,3 +38,25 @@ h3 {
 .page-title a {
   color: var(--dark);
 }
+
+// Publications: the book photo floats right, text wraps around it;
+// section headings clear the float. Stacks naturally on small screens.
+[data-slug="publications"] {
+  article img {
+    float: right;
+    margin: 0.3rem 0 1rem 1.75rem;
+    max-width: min(260px, 45%);
+    height: auto;
+  }
+  article h2 {
+    clear: both;
+  }
+  @media (max-width: 640px) {
+    article img {
+      float: none;
+      display: block;
+      margin: 1rem auto;
+      max-width: 70%;
+    }
+  }
+}
