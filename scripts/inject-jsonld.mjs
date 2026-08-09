@@ -45,7 +45,13 @@ for (const f of files) {
     isPartOf: SITE,
   })
   const tag = `<script type="application/ld+json">${ld}</script></head>`
-  const next = html.replace("</head>", tag)
+  let next = html.replace("</head>", tag)
+  // Properties panel starts collapsed for humans; the contents stay in
+  // the DOM, so machine readers lose nothing.
+  next = next.replace(
+    '<details class="note-properties metadata-container" open data-collapsed="false">',
+    '<details class="note-properties metadata-container" data-collapsed="true">',
+  )
   if (next !== html) {
     writeFileSync(f, next)
     count++

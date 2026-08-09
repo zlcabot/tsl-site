@@ -28,6 +28,12 @@
   to = "/"
   status = 301
 
+# /notes renamed /wiki (2026-08-09)
+[[redirects]]
+  from = "/notes/*"
+  to = "/wiki/:splat"
+  status = 301
+
 # /writing and /books consolidated at /publications (2026-08-09)
 [[redirects]]
   from = "/writing"

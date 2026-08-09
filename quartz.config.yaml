@@ -263,8 +263,9 @@ plugins:
       includeAll: false
       includedProperties:
         - description
-        - tags
         - aliases
+        - canon
+        - canon_synced
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
