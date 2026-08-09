@@ -263,11 +263,8 @@ plugins:
       includeAll: false
       includedProperties:
         - type
-        - description
-        - author
-        - aliases
         - status
-        - cite
+        - aliases
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
