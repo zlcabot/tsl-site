@@ -17,8 +17,10 @@ Ways in:
   and practitioners from around the world say what a spiritual life
   means to them.
 - The publications: [[publications]], the work fixed in print.
+- The letters: [join the email list](https://buttondown.com/thisspirituallife).
+  Occasional notes, no schedule, easy to leave.
 - The person: [[about]].
 
-Letters and walking paths are arriving; the site grows by tending.
+Walking paths are arriving; the site grows by tending.
 Everything here is free to read, free to wander, and free to cite
 ([[citing|how]]).

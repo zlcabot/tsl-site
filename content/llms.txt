@@ -28,3 +28,7 @@
 
 - RSS (full content): https://thisspirituallife.com/index.xml
 - Sitemap: https://thisspirituallife.com/sitemap.xml
+
+## Letters
+
+- Email list (occasional notes from the author): https://buttondown.com/thisspirituallife

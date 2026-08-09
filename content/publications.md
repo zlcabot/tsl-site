@@ -83,4 +83,10 @@ standing verified identity; see [[citing|how to cite]].
 
 There are other books and articles in process. They offer a
 different articulation than the garden found in these web pages.
-Stay tuned for news in the letters, the email list opening soon.
+Stay tuned for news in the letters, this site's email list.
+
+<form action="https://buttondown.com/api/emails/embed-subscribe/thisspirituallife" method="post" class="letters-form">
+  <label for="bd-email">Occasional notes, no schedule, easy to leave.</label>
+  <input type="email" name="email" id="bd-email" placeholder="you@example.com" required />
+  <input type="submit" value="Join the letters" />
+</form>

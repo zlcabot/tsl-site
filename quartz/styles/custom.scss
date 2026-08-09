@@ -39,6 +39,42 @@ h3 {
   color: var(--dark);
 }
 
+// The letters signup: quiet, paper-and-ink, the button is the toward.
+.letters-form {
+  margin: 1.5rem 0;
+  max-width: 26rem;
+
+  label {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--gray);
+    margin-bottom: 0.5rem;
+  }
+
+  input[type="email"] {
+    font-family: var(--bodyFont);
+    font-size: 0.95rem;
+    color: var(--darkgray);
+    background: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: 4px;
+    padding: 0.5rem 0.75rem;
+    width: 60%;
+    margin-right: 0.5rem;
+  }
+
+  input[type="submit"] {
+    font-family: var(--bodyFont);
+    font-size: 0.95rem;
+    color: var(--light);
+    background: var(--tertiary);
+    border: none;
+    border-radius: 4px;
+    padding: 0.55rem 1rem;
+    cursor: pointer;
+  }
+}
+
 // Publications: the book photo floats right, text wraps around it;
 // section headings clear the float. Stacks naturally on small screens.
 [data-slug="publications"] {
