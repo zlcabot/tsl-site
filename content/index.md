@@ -15,7 +15,7 @@ Ways in:
 - **The basic ideas, briefly** — [[foundations]], the map.
 - **The conversations** — [[podcast/index|the podcast]]: scholars and
   practitioners from around the world on what a spiritual life means.
-- **The books** — [[books]], the slow form of the work.
+- **The publications** — [[publications]], the work fixed in print.
 - **The person** — [[about]].
 
 Letters and walking paths are arriving; a garden grows by tending.

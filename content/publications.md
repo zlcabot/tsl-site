@@ -1,17 +1,17 @@
 ---
-title: Books
-description: The fixed record — the books, chapters, and articles in print.
+title: Publications
+description: The fixed record — books, chapters, articles, and papers.
 date: 2026-08-08
 aliases:
+  - books
   - writing
   - in-print
-  - publications
 ---
 
 Everything on this site is writing — living, tended, revised in place.
 This page holds what is different: the work **fixed in print** —
-finished, dated, citable by page number. The books are the slow form
-of this work; the garden moves faster, but the books go deeper.
+books, chapters, articles, and papers; finished, dated, citable by
+page number. The garden moves faster; the publications go deeper.
 
 • • • —
 
@@ -19,7 +19,7 @@ of this work; the garden moves faster, but the books go deeper.
 
 *Agents, Shamans, Mystics, and Diviners* — Lexington Books, 2018.
 
-![The book, photographed at home](ecologies-of-participation.jpg)
+![[ecologies-of-participation.jpg|260]]
 
 A daring debut that challenges the "wise homebodies" of academia by
 proposing a profoundly interdisciplinary methodology for comparative

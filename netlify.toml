@@ -28,10 +28,15 @@
   to = "/"
   status = 301
 
-# /writing merged into /books (2026-08-09)
+# /writing and /books consolidated at /publications (2026-08-09)
 [[redirects]]
   from = "/writing"
-  to = "/books"
+  to = "/publications"
+  status = 301
+
+[[redirects]]
+  from = "/books"
+  to = "/publications"
   status = 301
 
 [build.environment]
