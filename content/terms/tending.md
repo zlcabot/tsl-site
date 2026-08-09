@@ -4,11 +4,10 @@ description: To tend is to co-create what is happening. The heart of this work.
 date: 2026-08-08
 aliases:
   - tend
-canon:
-  - 01_terms/tending.md
-  - 02_laws/axiom-01-event-primacy.md
-  - 02_laws/axiom-02-triadic-irreducibility.md
-canon_synced: 2026-08-09
+type: term
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+status: canonical; revised in place
+cite: https://thisspirituallife.com/citing
 ---
 
 Everything is happening. It happened, it is happening, it will

@@ -2,6 +2,9 @@
 title: Start Here
 description: Four ways in.
 draft: true
+type: page
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+cite: https://thisspirituallife.com/citing
 ---
 
 Four ways in, depending on where you're coming from. Each is a short

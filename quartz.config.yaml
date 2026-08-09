@@ -262,10 +262,12 @@ plugins:
     options:
       includeAll: false
       includedProperties:
+        - type
         - description
+        - author
         - aliases
-        - canon
-        - canon_synced
+        - status
+        - cite
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

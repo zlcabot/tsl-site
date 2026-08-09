@@ -2,9 +2,10 @@
 title: Intending
 description: With. Tension as constitution; the membrane; different happenings held in one shared while.
 date: 2026-08-08
-canon:
-  - 01_terms/intending.md
-canon_synced: 2026-08-09
+type: term
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+status: canonical; revised in place
+cite: https://thisspirituallife.com/citing
 ---
 
 Intending is [[tending]] with. It names tension as constitution,

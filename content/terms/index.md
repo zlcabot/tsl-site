@@ -2,6 +2,9 @@
 title: Terms
 description: The canonical pages. What the load-bearing words mean here.
 date: 2026-08-08
+type: page
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+cite: https://thisspirituallife.com/citing
 ---
 
 The small set of words this work leans on. Each has one canonical

@@ -2,16 +2,9 @@
 title: Foundations
 description: The basic ideas, the six axioms, and how this work stays honest.
 date: 2026-08-08
-canon:
-  - 00_governance/00-framework-essentials.md
-  - 02_laws/00-philosophical-foundations.md
-  - 02_laws/axiom-01-event-primacy.md
-  - 02_laws/axiom-02-triadic-irreducibility.md
-  - 02_laws/axiom-03-singularity.md
-  - 02_laws/axiom-04-vantage-relativity.md
-  - 02_laws/axiom-05-scale-regime-relativity.md
-  - 02_laws/axiom-06-description-is-poiesis.md
-canon_synced: 2026-08-09
+type: page
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+cite: https://thisspirituallife.com/citing
 ---
 
 The basic ideas of this work, briefly, and beneath them the six

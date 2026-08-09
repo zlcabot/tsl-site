@@ -2,9 +2,10 @@
 title: Extending
 description: Out of. Intensification, the eruption into form. The embodied way of tending.
 date: 2026-08-08
-canon:
-  - 01_terms/extending.md
-canon_synced: 2026-08-09
+type: term
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+status: canonical; revised in place
+cite: https://thisspirituallife.com/citing
 ---
 
 Extending is [[tending]] out of. It names intensification, the

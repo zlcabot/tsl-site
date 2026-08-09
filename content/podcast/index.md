@@ -2,6 +2,9 @@
 title: Podcast
 description: This Spiritual Life. Conversations with scholars and practitioners on what a spiritual life means.
 date: 2026-08-08
+type: page
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+cite: https://thisspirituallife.com/citing
 ---
 
 ![[tsl-podcast-art.jpg|340]]

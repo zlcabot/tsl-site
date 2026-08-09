@@ -1,6 +1,9 @@
 ---
 title: This Spiritual Life
 description: This life. Your life. Is a spiritual life. The public home of Zayin Cabot's body of work.
+type: page
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+cite: https://thisspirituallife.com/citing
 ---
 
 *This life. Your life. Is a spiritual life.*

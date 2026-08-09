@@ -2,11 +2,9 @@
 title: What is time?
 description: Not a river, not a line, not a container. Happenings keeping time, together.
 date: 2026-08-09
-canon:
-  - 03_concepts/_drafts/temporicity.md
-  - 03_concepts/_drafts/duration-tempo.md
-  - 02_laws/axiom-03-singularity.md
-canon_synced: 2026-08-09
+type: essay
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+cite: https://thisspirituallife.com/citing
 ---
 
 Ask what time is and a picture arrives before any answer does: a

@@ -2,9 +2,9 @@
 title: Time
 description: The contested word. How philosophy and physics have carried the question, and the reading here.
 date: 2026-08-09
-canon:
-  - 03_concepts/_drafts/temporicity.md
-canon_synced: 2026-08-09
+type: wiki
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+cite: https://thisspirituallife.com/citing
 ---
 
 The most contested word in metaphysics. Augustine set the tone

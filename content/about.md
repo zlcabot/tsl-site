@@ -2,6 +2,9 @@
 title: About
 description: One paragraph about the author; the rest is the work.
 date: 2026-08-08
+type: page
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+cite: https://thisspirituallife.com/citing
 ---
 
 Zayin Cabot is a scholar-practitioner. He holds a B.A. in

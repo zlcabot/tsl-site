@@ -2,9 +2,10 @@
 title: Attending
 description: Toward. The arc; the way every act orients and curves toward its completing.
 date: 2026-08-08
-canon:
-  - 01_terms/attending.md
-canon_synced: 2026-08-09
+type: term
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+status: canonical; revised in place
+cite: https://thisspirituallife.com/citing
 ---
 
 Attending is [[tending]] toward. It names the arc of an act, the

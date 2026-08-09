@@ -2,6 +2,9 @@
 title: Wiki
 description: Reference entries. Concepts, figures, traditions, and texts, read through this work's lens.
 date: 2026-08-09
+type: page
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+cite: https://thisspirituallife.com/citing
 ---
 
 Reference entries, each engaged on its own terms, with this work's

@@ -6,6 +6,9 @@ aliases:
   - books
   - writing
   - in-print
+type: page
+author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
+cite: https://thisspirituallife.com/citing
 ---
 
 Everything on this site is writing, living and tended and revised
