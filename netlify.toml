@@ -28,5 +28,11 @@
   to = "/"
   status = 301
 
+# /writing merged into /books (2026-08-09)
+[[redirects]]
+  from = "/writing"
+  to = "/books"
+  status = 301
+
 [build.environment]
   NODE_VERSION = "22"

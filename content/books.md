@@ -1,11 +1,17 @@
 ---
 title: Books
-description: Ecologies of Participation (Lexington, 2018) — and what is being written now.
+description: The fixed record — the books, chapters, and articles in print.
 date: 2026-08-08
+aliases:
+  - writing
+  - in-print
+  - publications
 ---
 
-One book published; the next being written. The books are the slow
-form of this work — the garden moves faster, but the books go deeper.
+Everything on this site is writing — living, tended, revised in place.
+This page holds what is different: the work **fixed in print** —
+finished, dated, citable by page number. The books are the slow form
+of this work; the garden moves faster, but the books go deeper.
 
 • • • —
 
@@ -54,11 +60,24 @@ Available from
 [Lexington / Rowman & Littlefield](https://rowman.com/ISBN/9781498568159)
 and [Amazon](https://www.amazon.com/Ecologies-Participation-Diviners-Postcolonial-Decolonial/dp/1498568157).
 
+## Chapters & articles
+
+- "Toward an Integral Ontological Pluralism: A Process-Oriented
+  Critique of Integral Theory's Evolutionary Cosmology." In *Dancing
+  with Sophia: Integral Philosophy on the Verge*, edited by Michael
+  Schwartz and Sean Esbjörn-Hargens. SUNY Press, 2019.
+- "African Afterlife Beliefs." In *The Routledge Companion to Death
+  and Dying*, edited by Christopher M. Moreman. Routledge, 2018.
+  [DOI 10.4324/9781315723747-20](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315723747-20/african-afterlife-beliefs-zayin-cabot)
+- "Atemporal Creativity: Evolution Beyond Lines & Spirals."
+  *ReVision*, Spring 2010. Published under the name Zayin Neumann.
+  [PDF](https://participatorystudies.wordpress.com/wp-content/uploads/2011/03/zayin-neumann-revision-spring-2010.pdf)
+
+The [ORCID record](https://orcid.org/0009-0005-0260-4136) is the
+standing verified identity; see [[citing|how to cite]].
+
 ## What is being written
 
 The next books are underway — the fuller articulation of the work
 this garden holds in miniature. News will arrive here, and in the
 letters, when they are ready.
-
-The complete published record — chapters and articles included — is
-at [[writing]].

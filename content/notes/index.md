@@ -1,12 +1,12 @@
 ---
 title: Notes
-description: The wiki — concepts, figures, traditions, and books, read through this work's lens.
-draft: true
+description: The wiki — concepts, figures, traditions, and texts, read through this work's lens.
+date: 2026-08-09
 ---
 
-The wide part of the garden. Working concepts land here; thinkers,
-traditions, and texts get their pages here, engaged on their own terms.
-Notes link densely and grow at the edges.
+The wide part of the garden: concepts, thinkers, traditions, and
+texts — each engaged on its own terms, with this work's reading
+alongside. Notes link densely and grow at the edges.
 
-*This section receives the long-term migration of reference work from
-the private research vault, translated as it crosses.*
+- [[time|Time]] — the contested word: the classic positions, and the
+  reading here.
