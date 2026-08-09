@@ -1,13 +1,18 @@
 ---
-title: Writing
-description: The published record — books, chapters, and articles.
+title: In print
+description: The fixed record — books, chapters, and articles published elsewhere.
 date: 2026-08-09
+aliases:
+  - writing
+  - publications
 ---
 
-The scholarly record: what has been published, where, and when. The
-[[books]] page carries the books in full; this page is the complete
-list, in the spirit of [[citing|citability]] — one address for the
-whole record.
+Everything on this site is writing — living, tended, revised in
+place. This page lists what is different: the work **fixed in
+print** elsewhere — books, chapters, and articles that are finished,
+dated, and citable by page number. The [[books]] page carries the
+books in full; this is the complete record, one address, in the
+spirit of [[citing|citability]].
 
 • • • —
 

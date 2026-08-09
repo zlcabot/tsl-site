@@ -33,7 +33,7 @@ introduction:
 - [[podcast/index|The podcast]] — conversations with scholars and
   practitioners around the world
 - [[books|Books]] — the slow form of the work
-- [[writing|Writing]] — the published record
+- [[writing|In print]] — the fixed record: books, chapters, articles
 - [[citing|How to cite]] — everything here is by Zayin Cabot
   (ORCID [0009-0005-0260-4136](https://orcid.org/0009-0005-0260-4136));
   cite the person
