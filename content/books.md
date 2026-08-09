@@ -59,3 +59,6 @@ and [Amazon](https://www.amazon.com/Ecologies-Participation-Diviners-Postcolonia
 The next books are underway — the fuller articulation of the work
 this garden holds in miniature. News will arrive here, and in the
 letters, when they are ready.
+
+The complete published record — chapters and articles included — is
+at [[writing]].
