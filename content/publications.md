@@ -86,7 +86,7 @@ different articulation than the garden found in these web pages.
 Stay tuned for news in the letters, this site's email list.
 
 <form action="https://buttondown.com/api/emails/embed-subscribe/thisspirituallife" method="post" class="letters-form">
-  <label for="bd-email">Occasional notes, no schedule, easy to leave.</label>
+  <label for="bd-email">Occasional updates, no schedule, no spam.</label>
   <input type="email" name="email" id="bd-email" placeholder="you@example.com" required />
-  <input type="submit" value="Join the letters" />
+  <input type="submit" value="Subscribe" />
 </form>

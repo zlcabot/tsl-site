@@ -12,14 +12,13 @@ public by [[about|Zayin Cabot]].
 Ways in:
 
 - Begin with one verb: [[tending]], the heart of the work.
-- The basic ideas, briefly: [[foundations]], the map.
-- The conversations: [[podcast/index|the podcast]], where scholars
-  and practitioners from around the world say what a spiritual life
-  means to them.
-- The publications: [[publications]], the work fixed in print.
-- The letters: [join the email list](https://buttondown.com/thisspirituallife).
-  Occasional notes, no schedule, easy to leave.
-- The person: [[about]].
+- [[foundations|Foundations]]: the basic ideas, briefly.
+- [[podcast/index|Podcast]]: scholars and practitioners from around
+  the world on what a spiritual life means to them.
+- [[publications|Publications]]: the work fixed in print.
+- [Letters](https://buttondown.com/thisspirituallife): occasional
+  updates by email. No schedule, no spam.
+- [[about|About]]: the person.
 
 Walking paths are arriving; the site grows by tending.
 Everything here is free to read, free to wander, and free to cite

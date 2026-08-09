@@ -238,7 +238,7 @@ plugins:
     enabled: true
     options:
       links:
-        The letters: https://buttondown.com/thisspirituallife
+        Letters: https://buttondown.com/thisspirituallife
         How to cite: https://thisspirituallife.com/citing
     layout:
       position: footer
