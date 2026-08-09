@@ -82,8 +82,6 @@ standing verified identity; see [[citing|how to cite]].
 ## What is being written
 
 There are other books and articles in process. They offer a
-different articulation than the garden found in these web pages,
-slower and more sustained, fixed when they arrive. Stay tuned for
-news, which will land here and in the letters, this garden's email
-list, opening soon. When it does, a quiet way to join will live at
-the bottom of every page.
+different articulation than the garden found in these web pages.
+Stay tuned for news in the letters, this garden's email list,
+opening soon.
