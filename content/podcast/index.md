@@ -4,6 +4,8 @@ description: This Spiritual Life. Conversations with scholars and practitioners 
 date: 2026-08-08
 ---
 
+![[tsl-podcast-art.jpg|340]]
+
 What does a spiritual life mean to you? What does it mean to
 someone formed by a completely different tradition? *This Spiritual
 Life* invites scholars and practitioners from around the world to
