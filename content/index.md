@@ -19,6 +19,6 @@ Ways in:
 - The publications: [[publications]], the work fixed in print.
 - The person: [[about]].
 
-Letters and walking paths are arriving; a garden grows by tending.
+Letters and walking paths are arriving; the site grows by tending.
 Everything here is free to read, free to wander, and free to cite
 ([[citing|how]]).

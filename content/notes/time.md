@@ -11,7 +11,7 @@ The most contested word in metaphysics. Augustine set the tone
 sixteen centuries ago: "What then is time? If no one asks me, I
 know." Every serious tradition since has broken differently on the
 question. This note maps the major breaks, then says how the work
-in this garden reads them.
+on this site reads them.
 
 • • • —
 
@@ -49,7 +49,7 @@ Cognate scenes. Dōgen's *uji* ("being-time": beings do not pass
 through time, because being is time), Nāgārjuna's dissolution of
 past, present, and future as self-standing, and the many Indigenous
 articulations of seasonal, ceremonial, and kinship time are engaged
-in this garden as cognate scenes, read on their own terms and never
+here as cognate scenes, read on their own terms and never
 recruited as proof.
 
 ## The reading here
@@ -61,7 +61,7 @@ whether that something is absolute (Newton), relational scaffolding
 consciousness (Bergson, inverted). The quarrels are about the
 container's shape.
 
-The work in this garden declines the container itself. A happening
+The work on this site declines the container itself. A happening
 does not occur in time; its happening is its time. Each act keeps
 its own, and "time" is the family-name for happenings keeping time
 together: braided local rhythms, coordinated by shared instruments,

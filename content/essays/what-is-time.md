@@ -85,6 +85,6 @@ Listen to a room for a minute. Count nothing. There are more times
 in it than clocks in the world, and they are, all of them, keeping
 time.
 
-*Further in the garden: [[time|Time (notes)]], on how philosophy
+*Further: [[time|Time (notes)]], on how philosophy
 and physics have carried this question; [[tending]], the verb
 underneath; [[the-once]], on why nothing repeats.*

@@ -83,5 +83,4 @@ standing verified identity; see [[citing|how to cite]].
 
 There are other books and articles in process. They offer a
 different articulation than the garden found in these web pages.
-Stay tuned for news in the letters, this garden's email list,
-opening soon.
+Stay tuned for news in the letters, the email list opening soon.
