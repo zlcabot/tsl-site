@@ -2,5 +2,31 @@
   command = "npx quartz build && node scripts/build-llms-full.mjs && node scripts/inject-jsonld.mjs"
   publish = "public"
 
+# Old Squarespace-era URLs (complete set, from its sitemap) -> new homes
+[[redirects]]
+  from = "/about-zayin-cabot"
+  to = "/about"
+  status = 301
+
+[[redirects]]
+  from = "/about-tsl-podcast"
+  to = "/podcast/"
+  status = 301
+
+[[redirects]]
+  from = "/about-this-spiritual-life"
+  to = "/foundations"
+  status = 301
+
+[[redirects]]
+  from = "/about-this-spiritual-life/*"
+  to = "/foundations"
+  status = 301
+
+[[redirects]]
+  from = "/home"
+  to = "/"
+  status = 301
+
 [build.environment]
   NODE_VERSION = "22"
