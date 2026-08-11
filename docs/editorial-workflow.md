@@ -51,20 +51,150 @@ do not earn a primary entry.
 
 ### Public TSL wiki
 
+A TSL wiki is a public, source-grounded encounter, not a neutral
+encyclopedia entry. Its purpose is to orient a reader and then bring a
+person, tradition, movement, institution, text, or concept into explicit
+dialogue with the work articulated here. The encounter should build,
+test, correct, or clarify that work. It must not recruit every
+interlocutor as a precursor or treat another body of thought as raw
+material for a framework that cannot itself be changed.
+
 A public wiki draft earns publication when it has:
 
 1. a distinctive reason to exist beyond generic biography or summary;
-2. reliable engagement with primary material;
-3. a clear account of why the figure, movement, text, or concept matters
+2. reliable engagement with primary material and the strongest fair
+   account of the position needed for this page;
+3. a clear account of what the subject contributes and why it matters
    here;
-4. meaningful links to an essay, term, or neighboring wiki;
-5. one to four reviewed Topics.
+4. a precise account of convergence, divergence, or a harder problem,
+   where any is present;
+5. an explicit framework response and a reciprocal statement of what the
+   encounter changes, tests, narrows, or leaves unresolved in this work;
+6. finished Chicago citations and, for a substantive page, a bibliography
+   or sources section;
+7. meaningful links to an essay, term, or neighboring wiki;
+8. one to four reviewed Topics.
 
 Public pages may be shorter and more orienting than primary-vault wikis,
 but they must not be thin search-engine pages. Traffic is an outcome of
 good writing, strong internal structure, and accumulated depth.
 
-### Publication
+## Public wiki editorial form
+
+The following is a structural spine, not a set of mandatory heading
+names. Short pages may combine adjacent movements. Longer pages may
+expand them. Every published wiki should nevertheless make the movements
+legible in this order unless the subject gives a compelling editorial
+reason to vary it.
+
+### 1. Orientation: who or what is this?
+
+Give only the biography, history, corpus, practice, or institutional
+context needed to enter the conversation. Identify the central claim or
+move. Do not substitute an exhaustive life summary for an intellectual
+encounter.
+
+For a tradition, specify the relevant texts, period, school, lineage, or
+practice. Never make an undifferentiated tradition speak as one person.
+For an institution or commercial ecology, identify the relevant legal,
+organizational, evidentiary, financial, and governance layers rather than
+hiding them beneath its philosophical language.
+
+### 2. Contribution: why does this matter here?
+
+Name the subject's genuine gift before disagreement. Ask what it sees
+unusually clearly, what problem it makes harder to ignore, and what
+vocabulary, practice, distinction, or evidence it contributes. This is
+not ceremonial praise. It identifies what remains valuable even if the
+eventual disagreement is substantial.
+
+### 3. Encounter: where do we meet?
+
+Calibrate the relationship. It may be a shared problem, a structural
+cognate, a useful analogy, an established lineage, or a productive
+neighboring position. Resemblance alone does not establish agreement or
+ancestry.
+
+### 4. Divergence: where do we take different paths?
+
+Locate the fork precisely. State what the subject claims, what follows
+from it, and which commitment of this work leads elsewhere. Name whether
+the disagreement is ontological, temporal, ethical, political,
+practical, or evidentiary. Do not describe another thinker as having
+nearly discovered this framework or as failing to become it. Both paths
+must remain intelligible on their own terms.
+
+### 5. The harder problem, when needed
+
+Ordinary disagreement does not require a prosecutorial section. Include a
+harder problem only when the evidence warrants a specific concern such as
+contradiction, empirical overreach, political or ethical harm,
+appropriation, totalization, institutional opacity, commercial conflict,
+or a practice whose effects contradict its stated commitments. Make the
+claim specific, cited, proportionate, and open to correction.
+
+### 6. Framework response: what does tending make visible?
+
+State openly how the framework engages the problem. It may preserve an
+insight while rejecting its metaphysics, distinguish phenomena the
+subject conflates, supply missing temporal or agential structure, show
+how a proposed solution reproduces its problem, or offer a different
+practice or construction. A page need not manufacture victory. Sometimes
+the responsible response is a sharpened question or an unresolved test.
+
+### 7. Reciprocal test: what changes here?
+
+Dialogue must be able to alter both sides. State what the encounter
+corrects, tests, or makes more precise in this work; which claim must be
+narrowed; what remains unresolved; or what evidence could change the
+present judgment. If the framework survives the encounter unchanged,
+the page should make clear why that is a result of the test rather than
+an assumption built into it.
+
+### 8. Sources and ways in
+
+End with the primary texts actually used, a Chicago bibliography or
+sources section where the page is substantive, one or two responsible
+starting points, and deliberate links to related essays, terms, and
+neighboring wikis.
+
+### Three voices
+
+Every wiki must keep three voices distinguishable even when the prose
+flows without labels:
+
+1. **The subject's claim:** what the person, tradition, movement,
+   institution, text, or concept actually says or does.
+2. **The author's reading:** what Zayin Cabot understands to be at stake
+   in that material.
+3. **The framework engagement:** what tending accepts, contests,
+   reframes, learns, or cannot yet decide.
+
+Attribution phrases and section architecture should prevent a reader
+from mistaking the framework's reconstruction for the subject's own
+self-description.
+
+## Citations
+
+The vault, papers, and website use Chicago style. Public essays and wikis
+use Chicago notes and bibliography form:
+
+- Give a full note on first citation and a shortened note thereafter.
+- Give page or section locators for direct quotations and load-bearing
+  interpretations.
+- Include a bibliography or clearly labeled sources section on
+  substantive essays and wikis.
+- Keep Zotero citekeys in the research and authoring layer. Never expose
+  them in public prose.
+- Use internal links for navigation and conceptual relation. They do not
+  replace citations to external sources.
+- Cite the exact text, edition, translator, recording, institutional
+  document, or dataset actually used.
+- Separate philosophical, historical, empirical, clinical,
+  organizational, and commercial claims. Evidence in one track does not
+  automatically establish another.
+
+## Publication
 
 To publish a draft:
 
@@ -72,12 +202,14 @@ To publish a draft:
 2. move the file from `_drafts/` into its live register;
 3. remove `draft: true`;
 4. add aliases only now;
-5. review Topics against the controlled vocabulary;
-6. add deliberate links from the relevant index and neighboring pages;
-7. run content validation, tests, and a production build;
-8. verify that no `_drafts` path or draft alias was emitted;
-9. deploy only on the owner's explicit word or at an agreed session
-   close.
+5. verify Chicago notes, locators, and the bibliography or sources
+   section;
+6. review Topics against the controlled vocabulary;
+7. add deliberate links from the relevant index and neighboring pages;
+8. run content validation, tests, and a production build;
+9. verify that no `_drafts` path or draft alias was emitted;
+10. deploy only on the owner's explicit word or at an agreed session
+    close.
 
 ## Topics
 

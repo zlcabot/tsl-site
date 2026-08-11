@@ -45,7 +45,11 @@ The full workflow and promotion gates are in
 - Page types are declared in frontmatter as `type`: `term` pages are
   canonical definitions (revised in place, never forked; treat as the
   authoritative statement of a concept), `essay` pages are dated
-  walks, `wiki` pages are reference entries, `page` covers the rest.
+  walks, `wiki` pages are public, source-grounded encounters with people,
+  traditions, movements, institutions, texts, and concepts, and `page`
+  covers the rest. A TSL wiki is not a neutral encyclopedia entry. It
+  orients the reader, then openly uses dialogue and disagreement to build,
+  test, correct, or clarify the work articulated here.
 - Frontmatter `draft: true` marks unpublished work; it is excluded
   from the site and from llms-full.txt.
 - Start with `content/terms/tending.md`; it is the root concept the
@@ -74,6 +78,15 @@ are the revision record.
   allow-list in `docs/editorial-workflow.md`. Topics are broad reader
   routes, not an ontology: never use author names, page types, workflow
   states, or near-synonyms as tags.
+- Public wikis follow the dialogical structure in
+  `docs/editorial-workflow.md`. Keep the subject's claim, the author's
+  interpretation, and the framework engagement distinguishable. Present
+  the strongest source-grounded version of a position before divergence;
+  state what the encounter changes or leaves unresolved in this work as
+  well as what this work clarifies or contests in the interlocutor.
+- Citations follow Chicago notes and bibliography style. Public prose
+  must never expose Zotero citekeys. Internal links aid navigation but do
+  not replace source citations.
 - Deploys are deliberate: `scripts/deploy.sh` (prebuilt upload; do
   not enable Netlify auto-builds). Do not deploy mid-session; deploy
   at session close or on the owner's explicit word.
