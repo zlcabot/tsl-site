@@ -13,6 +13,7 @@ configuration:
     - private
     - templates
     - .obsidian
+    - _drafts/**
   theme:
     # System fonts only — zero webfont requests, per the brand style guide
     fontOrigin: local
@@ -265,6 +266,7 @@ plugins:
         - type
         - status
         - aliases
+        - tags
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

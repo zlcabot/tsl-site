@@ -3,6 +3,7 @@ title: Zach Bush
 description: Biological intelligence, regeneration, mortality, and the institutional ecology of a biological renaissance.
 date: 2026-08-11
 type: wiki
+tags: [ecology, mortality, consciousness, modernity]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 draft: true

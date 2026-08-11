@@ -3,6 +3,7 @@ title: Intending
 description: With. Tension as constitution; the membrane; different happenings held in one shared while.
 date: 2026-08-08
 type: term
+tags: [tending, agency, ecology]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 status: canonical; revised in place
 cite: https://thisspirituallife.com/citing
@@ -19,8 +20,8 @@ happens alone.
 
 ## The word
 
-*In-tendere*: to tend in, to tend within. In everyday English
-*intending* has narrowed to mean having a purpose, as in "I intend
+_In-tendere_: to tend in, to tend within. In everyday English
+_intending_ has narrowed to mean having a purpose, as in "I intend
 to call you." That is a late, specialized descendant. This work
 restores the older sense, the with-ness of happening, the
 relational way of the one verb.

@@ -1,5 +1,5 @@
 [build]
-  command = "npx quartz build && node scripts/build-llms-full.mjs && node scripts/inject-jsonld.mjs"
+  command = "npm run validate:content && npx quartz build && node scripts/build-llms-full.mjs && node scripts/inject-jsonld.mjs"
   publish = "public"
 
 # Old Squarespace-era URLs (complete set, from its sitemap) -> new homes

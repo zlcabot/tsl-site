@@ -3,6 +3,7 @@ title: Hartmut Rosa
 description: Social acceleration, frenetic standstill, resonance, and the limits of control.
 date: 2026-08-11
 type: wiki
+tags: [modernity, time, agency]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 draft: true

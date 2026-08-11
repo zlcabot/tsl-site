@@ -10,6 +10,34 @@ the public corpus of Zayin Cabot
 `content/` is the single source of truth; the live site is its
 rendering.
 
+## Authoring and publication boundary
+
+This repository is the canonical home of prose intended for the public
+TSL site, including unpublished prose. Website-bound essays and public
+wiki entries are drafted here, never staged in the Fourth Way primary
+vault.
+
+- Unpublished public work lives under `content/_drafts/`, divided by
+  register: `_drafts/essays/`, `_drafts/wiki/`, and
+  `_drafts/collections/`; unfinished entrance paths live under
+  `_drafts/paths/`.
+- Every file under `_drafts/` carries `draft: true`. The folder is also
+  excluded from the Quartz build. These are two independent safeguards.
+- Drafts carry no aliases. The alias emitter can create redirect
+  artifacts before draft filtering; aliases are added only at
+  publication review.
+- Publishing is a deliberate move into `content/essays/`,
+  `content/wiki/`, or another live register, followed by removal of
+  `draft: true`, addition of any aliases, topic review, index linking,
+  build verification, and deployment.
+- The Fourth Way primary vault remains canonical for source close reads,
+  framework claims, and durable Register 2 readings. TSL remains
+  canonical for public expression. Translation between them is
+  editorial, not automatic, and no one-to-one mirror is required.
+
+The full workflow and promotion gates are in
+`docs/editorial-workflow.md`.
+
 ## Reading the corpus
 
 - Fastest complete read: <https://thisspirituallife.com/llms-full.txt>
@@ -40,7 +68,12 @@ are the revision record.
 - Internal coordination metadata (private-vault paths, sync dates)
   never appears in `content/` frontmatter. Public frontmatter fields
   are: `title`, `description`, `date`, `type`, `author`, `aliases`,
-  `status`, `cite`, `draft`.
+  `status`, `cite`, `tags`, `draft`.
+- `tags` are the site's controlled public Topics. Use one to four on
+  substantive `term`, `essay`, and `wiki` pages, chosen only from the
+  allow-list in `docs/editorial-workflow.md`. Topics are broad reader
+  routes, not an ontology: never use author names, page types, workflow
+  states, or near-synonyms as tags.
 - Deploys are deliberate: `scripts/deploy.sh` (prebuilt upload; do
   not enable Netlify auto-builds). Do not deploy mid-session; deploy
   at session close or on the owner's explicit word.

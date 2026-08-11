@@ -3,6 +3,7 @@ title: Joanna Macy
 description: Ecological grief, active hope, systems thinking, and the Work That Reconnects.
 date: 2026-08-11
 type: wiki
+tags: [ecology, mortality, practice, agency]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 draft: true

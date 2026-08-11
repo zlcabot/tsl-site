@@ -3,6 +3,7 @@ title: Extending
 description: Out of. Intensification, the eruption into form. The embodied way of tending.
 date: 2026-08-08
 type: term
+tags: [tending, mortality, ecology]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 status: canonical; revised in place
 cite: https://thisspirituallife.com/citing
@@ -19,7 +20,7 @@ up in the erupting, this once, now.
 
 ## The word
 
-*Ex-tendere*: to tend out of. This is the first of the three ways
+_Ex-tendere_: to tend out of. This is the first of the three ways
 of [[tending]], and the one English uses most casually. We extend a
 hand, a deadline, a welcome, and in each case something already
 formed reaches into what is happening now.

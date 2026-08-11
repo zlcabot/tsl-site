@@ -3,6 +3,7 @@ title: Time
 description: The contested word. How philosophy and physics have carried the question, and the reading here.
 date: 2026-08-09
 type: wiki
+tags: [time, modernity]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 ---
@@ -38,14 +39,14 @@ gravity genuinely disagree. Physics kept beautiful time-order
 within each worldline while dissolving the single cosmic timeline,
 a result every metaphysics of time must now live with.
 
-Lived time. Bergson distinguished *durée*, duration as lived,
+Lived time. Bergson distinguished _durée_, duration as lived,
 qualitative, indivisible, from the spatialized time of clocks,
 accusing science of measuring space and calling it time. Husserl
 and the phenomenologists mapped internal time-consciousness through
 retention, the living present, and protention. James's "specious
 present" belongs here too.
 
-Cognate scenes. Dōgen's *uji* ("being-time": beings do not pass
+Cognate scenes. Dōgen's _uji_ ("being-time": beings do not pass
 through time, because being is time), Nāgārjuna's dissolution of
 past, present, and future as self-standing, and the many Indigenous
 articulations of seasonal, ceremonial, and kinship time are engaged

@@ -5,6 +5,7 @@ date: 2026-08-08
 aliases:
   - tend
 type: term
+tags: [tending, agency, consciousness]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 status: canonical; revised in place
 cite: https://thisspirituallife.com/citing
@@ -21,7 +22,7 @@ containing? Our most careful assumption says no. There is no thing
 to touch, because touching is itself a tending; there are only
 tendings, all the way out and all the way in. And yet the real is
 not lost. It is met in the tending, and nowhere else. That is why
-these two words belong together. *Tending reality*: not a reality
+these two words belong together. _Tending reality_: not a reality
 that waits to be tended, but a real that happens as the tending.
 One simple verb holds the whole anatomy, because to extend is to
 tend out of, to intend is to tend with, and to attend is to tend
@@ -31,10 +32,10 @@ toward. And each happens [[the-once|once]].
 
 ## The word
 
-*Tend* descends from an ancient root meaning to stretch, the root
-that survives in *tension*, *tendon*, and *tent*. Latin carried it
-as *tendere* and added directions: *ex-tendere*, out of;
-*in-tendere*, in and with; *ad-tendere*, toward. English inherited
+_Tend_ descends from an ancient root meaning to stretch, the root
+that survives in _tension_, _tendon_, and _tent_. Latin carried it
+as _tendere_ and added directions: _ex-tendere_, out of;
+_in-tendere_, in and with; _ad-tendere_, toward. English inherited
 all three whole. Extend, intend, attend: one verb, three
 prepositions, the entire anatomy of an act.
 
@@ -48,7 +49,7 @@ between its taking and its release. A tending is a while, not a
 width. It is the living-through of an act, not the length of a
 thing.
 
-And *tend* carries a second sense from the same source, the sense
+And _tend_ carries a second sense from the same source, the sense
 of caring for. A gardener tends. A shepherd tends. We tend a fire,
 the sick, a friendship. Caring is temporal too, not a stance held
 but a staying-with, renewed for as long as it lives.
@@ -58,17 +59,17 @@ but a staying-with, renewed for as long as it lives.
 The claim at the heart of this work is that reality reads better
 through this verb than through our usual nouns. What we call things
 are happenings with their own pace; a mountain is a very slow act,
-a thought a very fast one. And a happening does not occur *in*
-time, the way furniture sits in a room. Its happening *is* its
+a thought a very fast one. And a happening does not occur _in_
+time, the way furniture sits in a room. Its happening _is_ its
 time. "Was," "is," and "will be" are how acts sound from inside
 other acts. There is no clock outside all of them, only happenings
 tending happenings.
 
 ## Tending reality
 
-Put the two words together and hear them exactly. Not *reality,
-tended*, as if the real sat waiting like a garden bed before the
-gardener arrives. And not *tending, inside reality*, as if the verb
+Put the two words together and hear them exactly. Not _reality,
+tended_, as if the real sat waiting like a garden bed before the
+gardener arrives. And not _tending, inside reality_, as if the verb
 were one process housed in a larger container. The question "but is
 there a reality outside all the tending?" assumes a vantage no one
 has. To check, you would have to step outside every happening and
@@ -91,13 +92,13 @@ none containing all of the others.
 Every happening tends three ways at once, and the three are not
 parts or ingredients but one verb in three inflections:
 
-- [[extending]], *out of*: intensification, the becoming so intense
+- [[extending]], _out of_: intensification, the becoming so intense
   that form erupts. Felt, immediate, embodied. Every act extends
   out of completed acts, taken up in the erupting, this once.
-- [[intending]], *with*: tension as constitution, the membrane that
+- [[intending]], _with_: tension as constitution, the membrane that
   makes inside and outside faces of one another, different
   happenings held in one shared while.
-- [[attending]], *toward*: the arc, the way every act orients,
+- [[attending]], _toward_: the arc, the way every act orients,
   faces, and curves toward its completing, before any plan or
   purpose.
 

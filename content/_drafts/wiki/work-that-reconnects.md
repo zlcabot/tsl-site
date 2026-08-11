@@ -3,6 +3,7 @@ title: Work That Reconnects
 description: A communal practice moving through gratitude, ecological grief, changed perception, and action.
 date: 2026-08-11
 type: wiki
+tags: [ecology, mortality, practice, agency]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 draft: true

@@ -3,6 +3,7 @@ title: Anna Lowenhaupt Tsing
 description: Precarity, collaborative survival, and multispecies life in capitalist ruins.
 date: 2026-08-11
 type: wiki
+tags: [modernity, ecology, politics]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 draft: true

@@ -3,6 +3,7 @@ title: What is time?
 description: Not a river, not a line, not a container. Happenings keeping time, together.
 date: 2026-08-09
 type: essay
+tags: [time, tending, mortality]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 ---
@@ -83,6 +84,6 @@ Listen to a room for a minute. Count nothing. There are more times
 in it than clocks in the world, and they are, all of them, keeping
 time.
 
-*Further: [[time|Time (wiki)]], on how philosophy
+_Further: [[time|Time (wiki)]], on how philosophy
 and physics have carried this question; [[tending]], the verb
-underneath; [[the-once]], on why nothing repeats.*
+underneath; [[the-once]], on why nothing repeats._

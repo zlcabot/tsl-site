@@ -3,6 +3,7 @@ title: Báyò Akómoláfé
 description: Postactivism, cracks, sanctuary, slowing down, and action after the sovereign problem-solver.
 date: 2026-08-11
 type: wiki
+tags: [modernity, agency, politics, ecology]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 draft: true

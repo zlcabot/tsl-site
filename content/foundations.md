@@ -3,6 +3,7 @@ title: Foundations
 description: The basic ideas, the six axioms, and how this work stays honest.
 date: 2026-08-08
 type: page
+tags: [tending, time, agency, consciousness]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 ---
@@ -19,11 +20,11 @@ be tried rather than accepted.
 
 Everything is happening. What we call things are happenings with
 their own pace; a mountain is a very slow act, a thought a very
-fast one. And a happening does not sit *in* time, because its
-happening *is* its time. The whole of it lives at [[tending]].
+fast one. And a happening does not sit _in_ time, because its
+happening _is_ its time. The whole of it lives at [[tending]].
 
 One verb, three ways. To tend is to co-create what is happening,
-and *extend, intend, attend* are that one verb, three ways.
+and _extend, intend, attend_ are that one verb, three ways.
 [[extending|Extending]] is the out of: intensification, the
 eruption into form. [[intending|Intending]] is the with: the
 membrane, different happenings holding one shared while.

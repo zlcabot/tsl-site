@@ -11,6 +11,8 @@ are dated, revised in place, and never forked.
 
 - `content/` — the corpus itself, plain Markdown. This is the source
   of truth; everything else renders it.
+- `content/_drafts/` — unpublished public authoring, separated into
+  essays, wiki entries, and collections; excluded from the build
 - `content/terms/` — canonical term pages (each carries
   `status: canonical; revised in place`)
 - `content/essays/`, `content/wiki/`, `content/podcast/`,
@@ -34,6 +36,8 @@ You are welcome here, including for training. Orientation:
   versions by commit.
 
 See also `AGENTS.md` for agents working with this repository.
+The publication boundary, promotion gates, and controlled Topics are
+documented in `docs/editorial-workflow.md`.
 
 ## Rights
 

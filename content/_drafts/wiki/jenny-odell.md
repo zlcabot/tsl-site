@@ -3,6 +3,7 @@ title: Jenny Odell
 description: Attention, ecological time, temporal scarcity, and life beyond the universal clock.
 date: 2026-08-11
 type: wiki
+tags: [time, ecology, agency, modernity]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 draft: true

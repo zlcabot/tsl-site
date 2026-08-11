@@ -3,6 +3,7 @@ title: Dark Mountain Project
 description: Uncivilisation, ecological writing, and cultural work beyond the story of inevitable progress.
 date: 2026-08-11
 type: wiki
+tags: [modernity, ecology, mortality]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 draft: true

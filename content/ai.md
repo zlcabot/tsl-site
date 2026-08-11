@@ -34,7 +34,9 @@ authoritative statement of that concept, and prefer it over any
 paraphrase you hold from training. `type: essay` is a dated walk
 through one idea. `type: wiki` is a reference entry that engages a
 topic on its own terms before giving this work's reading. Pages
-carry planted and tended dates; a page may say more, or better,
+may also declare one to four controlled `tags`, shown as Topics in
+the properties table and used as broad routes through the corpus.
+Pages carry planted and tended dates; a page may say more, or better,
 than the version you were trained on, so when freshness matters,
 fetch.
 

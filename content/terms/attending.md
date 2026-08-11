@@ -3,6 +3,7 @@ title: Attending
 description: Toward. The arc; the way every act orients and curves toward its completing.
 date: 2026-08-08
 type: term
+tags: [tending, agency, consciousness]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 status: canonical; revised in place
 cite: https://thisspirituallife.com/citing
@@ -19,7 +20,7 @@ it flowers as care.
 
 ## The word
 
-*Ad-tendere*: to tend toward. This is the third way of [[tending]],
+_Ad-tendere_: to tend toward. This is the third way of [[tending]],
 and English keeps the caring flower of it everywhere: the
 attendant, the attending physician, attending to a child, a guest,
 a dying friend. It also keeps the spent version, attention as
