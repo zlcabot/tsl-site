@@ -18,6 +18,59 @@ exist for reader orientation without a primary-vault twin. A primary
 wiki may remain private when its durable research function does not
 warrant a public page.
 
+## Publication registers: fixed and tended
+
+Adopted 2026-08-20 (owner-ratified). The site has two temporal
+registers, and every published page belongs to exactly one.
+
+**Essays are fixed at publication.** An essay is a dated act. Once
+published it is out in the world and stays what it was: corrections
+only, never revision of the argument. Its frontmatter carries
+`status: fixed at publication; corrections only`, and `/citing`
+already supports pinning the exact version by commit. This is the
+provenance register: a dated, locked essay is the kind of artifact a
+generated web cannot counterfeit, and the lock also performs the
+philosophy. The essay completes; it does not get tended back into
+indefiniteness.
+
+Corrections on a fixed essay are: typos, broken links, formatting,
+and factual or canon-drift fixes that change a sentence without
+changing the argument. A correction that changes meaning gets a dated
+line in a small `Corrections` section at the essay's foot, so the
+record is visible rather than silent. If the argument itself must
+change, that is not a correction. It is a new essay, or a dated
+postscript clearly marked as later; the original stands.
+
+**Terms and wikis are tended.** Terms carry
+`status: canonical; revised in place`; wikis evolve in place; git is
+the revision record. They are the living tissue around the fixed
+essays.
+
+## What goes public, and when: the pull-rule
+
+A term or wiki page goes public when a published or publishing essay
+needs it, and never before. The essay pulls the page through the
+membrane; a page never walks out on its own.
+
+This is the store-discipline. Essays spend the philosophy on
+questions readers already care about, which is the work's public use.
+A program of planting vocabulary ahead of use would inventory the
+store without its demonstrations, and would publish pages nothing yet
+drives readers to. The practical form: each essay's draft map lists
+the terms and wikis it depends on, and that list is the publication
+queue for those pages.
+
+## The lock-gate for research-program material
+
+The framework's research program (the field studies, instruments,
+formal apparatus, and the vault pipeline that governs them) reaches
+this site only when a field locks under the vault's own pipeline
+ruling, and TSL is then the announcement surface. Until a field
+locks, essays may trail the program without exposing its instruments:
+use the thinking, withhold the apparatus and the coined internal
+vocabulary. The published essay on time is the worked example,
+carrying the temporal argument without the internal term it rests on.
+
 ## Draft folders
 
 Website-bound drafts live here:
@@ -201,7 +254,8 @@ To publish a draft:
 1. finish the source and editorial review;
 2. move the file from `_drafts/` into its live register;
 3. remove `draft: true`;
-4. add aliases only now;
+4. add aliases only now, and on an essay set
+   `status: fixed at publication; corrections only`;
 5. verify Chicago notes, locators, and the bibliography or sources
    section;
 6. review Topics against the controlled vocabulary;
