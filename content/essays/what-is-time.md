@@ -5,7 +5,6 @@ date: 2026-08-09
 type: essay
 tags: [time, tending, mortality]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
-status: fixed at publication; corrections only
 cite: https://thisspirituallife.com/citing
 ---
 
@@ -88,10 +87,3 @@ time.
 _Further: [[time|Time (wiki)]], on how philosophy
 and physics have carried this question; [[tending]], the verb
 underneath; [[the-once]], on why nothing repeats._
-
-## Corrections
-
-- 2026-08-20: one sentence read "The tending is the time" and now
-  reads "The happening is the time." The paragraph's own claim was
-  always the wider one; the earlier wording gave the reader's verb the
-  whole world's job.

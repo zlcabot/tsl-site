@@ -46,6 +46,19 @@ postscript clearly marked as later; the original stands.
 the revision record. They are the living tissue around the fixed
 essays.
 
+**The fixed register applies from owner-authorized publication
+forward.** A page already live before these rules existed enters the
+fixed register only after the owner's voice pass, not by retroactive
+stamp. As of 2026-08-20 that means the time essay is live but not yet
+fixed: the owner has flagged its voice, and it awaits re-voicing
+before any lock applies.
+
+**Nothing leaves `_drafts/` without the owner's explicit go.** For an
+essay, the go follows the owner's voice pass. An AI session never
+publishes an essay, term, or wiki on its own initiative, however
+finished a draft looks; drafting and publication are different acts,
+and the second belongs to the owner.
+
 ## What goes public, and when: the pull-rule
 
 A term or wiki page goes public when a published or publishing essay
