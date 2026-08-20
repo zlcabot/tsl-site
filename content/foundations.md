@@ -23,36 +23,48 @@ their own pace; a mountain is a very slow act, a thought a very
 fast one. And a happening does not sit _in_ time, because its
 happening _is_ its time. The whole of it lives at [[tending]].
 
-One verb, three ways. To tend is to co-create what is happening,
-and _extend, intend, attend_ are that one verb, three ways.
-[[extending|Extending]] is the out of: intensification, the
-eruption into form. [[intending|Intending]] is the with: the
-membrane, different happenings holding one shared while.
-[[attending|Attending]] is the toward: the arc, directionality
-before any plan, flowering at the human scale as care.
+Every happening is a knot of three tensions. It spends itself into
+this shape and no other, it answers what it happens among, and it
+stands open at its own completing. Intensity, resonance, openness.
+Always all three, always in some proportion, and a lean toward one
+of them is never the absence of another.
 
-Each act happens once. No happening repeats. What completes does
-not come back; it becomes what later happenings tend out of. The
-page for this is [[the-once]].
+Tending is what some happenings do about that. To tend is to come to
+care for the tensions you already are, and it is a real local
+achievement rather than the shape of everything. A rock-event holds
+its three tensions with nobody home. You hold yours and know it.
+That difference is the whole of [[tending]], and it is where the
+three stretches live: [[extending|extending]] the extension, out of;
+[[intending|intending]] the care, with; [[attending|attending]] the
+orientation, toward.
 
-There is no reality outside the tending. To check whether a reality
-stands behind all the happening, you would have to step outside
-every happening and look, and the stepping and looking would
-themselves be tendings. The real is met within the tending, where
-it answers back, resists, surprises. Met, not conjured.
+Each act happens once. No happening repeats. What completes becomes
+definite, which is not the same as becoming past, and it is what
+later happenings arise on. The page for this is [[the-once]].
 
-Nothing happens alone. Every act arises with others, out of
-others, toward others. There is no self-made happening and no view
-from nowhere.
+There is no vantage outside, for us. To check whether a reality
+stands behind all the happening you would have to step outside every
+happening and look, and the stepping and the looking would
+themselves be happenings. That is a limit on us, and it is not the
+claim that the real is made of our caring. The real answers back,
+resists, surprises, and goes on holding its tensions where nobody is
+tending at all. Met, not conjured.
 
-Consciousness is the fold. Not a spark inside the skull but a
-happening that includes its own tending among what it tends, care
-that also cares for its caring: [[consciousness]].
+Nothing happens alone. Every act arises on others, answers others,
+stands open among others. There is no self-made happening and no
+view from nowhere.
 
-Agency is a doing, never a doer. The fold at the human scale, the
-act that knows it acts and knows it completes. Freedom lives here,
-not as escape from the happening but as the freedom to inhabit it,
-right where you are: [[agency]].
+Consciousness has two questions in it. Whether something is
+inhabited at all is answered by signatures rather than by degree: an
+endogenous rhythm, self-maintenance, mortal onces, aims held. How
+deeply it is inhabited is a matter of grades. Reflexivity, a caring
+that also cares for its caring, is the deep end of the second
+question and not the definition of the whole: [[consciousness]].
+
+Agency is a doing, never a doer. It is that reflexive turn at the
+human scale, the act that knows it acts and knows it completes.
+Freedom lives here, not as escape from the happening but as room
+inside it, right where you are: [[agency]].
 
 ## The six axioms
 
@@ -72,14 +84,22 @@ never one, never all. This catches talk sliding back into permanent
 stuff, hidden foundations, or "the universe" as a finished
 container.
 
-### 2 · Three ways, none reducible
+### 2 · Three tensions, none reducible
 
-Every happening tends all three ways at once; no way reduces to the
-others, and none is the master. The count is not sacred. A genuine
-fourth way that earned its place would be admitted, and an
-incumbent that failed would be removed, because the test cuts both
-directions. This catches any one way quietly absolutized into the
-whole, whether pure matter, pure mind, or pure relation.
+Every happening holds all three at once; none reduces to the others,
+and none is the master. What a happening has is a proportion among
+them rather than one of them, so a lean is never an absence and
+raising one never spends another. The count is not sacred. A genuine
+fourth that earned its place would be admitted, and an incumbent that
+failed would be removed, because the test cuts both directions. This
+catches any one of the three quietly absolutized into the whole,
+whether pure matter, pure mind, or pure relation.
+
+It also catches the mistake this work made in its own foundation and
+corrected in public. Tending is what readers do, and for a while the
+writing here used it for what everything does, which is the reader's
+own verb promoted into the shape of the world. The tensions are
+universal. Tending is regional.
 
 ### 3 · The once
 
