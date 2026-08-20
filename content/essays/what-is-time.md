@@ -29,7 +29,7 @@ This is the claim, and it is simpler than the river: a happening
 does not occur in time, because its happening is its time. [[tending|To
 tend]], to reach out of what has been, with what accompanies,
 toward what calls, is not something done inside a temporal
-container. The tending is the time. "Was," "is," and "will be" are
+container. The happening is the time. "Was," "is," and "will be" are
 how acts sound from inside other acts. The words are real, but
 there is no clock outside all the happenings for them to point to,
 only happenings keeping time with happenings.

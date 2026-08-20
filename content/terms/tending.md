@@ -41,6 +41,19 @@ suspicion; it cannot carry an argument. What holds the two senses
 together here is care, not philology, and the sections below have to
 earn it without the etymology's help.
 
+## The claim
+
+The claim at the heart of this work is that reality reads better
+through happenings than through our usual nouns. What we call things
+are acts with their own pace. A mountain is a very slow one, a thought
+a very fast one, and neither is a substance that happens to be
+changing.
+
+A happening does not occur _in_ time, the way furniture sits in a
+room. Its happening _is_ its time. "Was," "is," and "will be" are how
+acts sound from inside other acts, and there is no clock outside all
+of them for those words to point to.
+
 ## What every happening is
 
 Before anything cares about anything, a happening is already a knot of
