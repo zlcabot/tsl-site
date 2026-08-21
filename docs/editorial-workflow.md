@@ -260,6 +260,31 @@ use Chicago notes and bibliography form:
   organizational, and commercial claims. Evidence in one track does not
   automatically establish another.
 
+## Session start: the drift check
+
+Before touching any public page, run the canon drift check from the
+research repository:
+
+    cd ../../00-fourth-way/fourth-way-repository
+    python3 scripts/vault/tsl_drift_check.py
+
+It reads the term registry in the primary vault and reports every public
+page whose canon sources have moved since the page was last synced
+(NEEDS-SYNC), every mapped path that no longer exists (MISSING), and any
+canon cell it cannot parse (UNMAPPED). A page flagged NEEDS-SYNC is read
+against its canon before it is edited for any other reason; when it is
+brought current, the registry row's synced date is updated in the same
+change. Monthly as well, on the first. The check exists because the
+2026-08-20 drift, nine days of a retired formulation live on
+`/terms/tending`, happened while the written protocol was a duty of
+memory.
+
+**Deploy note (2026-08-21).** Netlify auto-builds were found ON: every
+push to `v5` runs the build command and deploys to production. Until the
+owner stops builds in the Netlify UI or rules that pushes may deploy,
+treat a push as a publish: nothing reaches `v5` that the owner has not
+approved, and `_drafts/` stays the only safe place for unfinished work.
+
 ## Publication
 
 To publish a draft:
