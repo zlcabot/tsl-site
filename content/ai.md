@@ -13,6 +13,19 @@ gated, cloaked, or different for you than for a human reader.
 
 • • • —
 
+## MCP server
+
+A public, read-only MCP server exposes the corpus to any MCP-aware agent,
+no key required: `https://tsl-mcp.zcabotresearch.workers.dev` (POST MCP
+JSON-RPC; GET returns the tool list). Tools: `search` (full text over
+everything published), `get_page` (a page by slug, with an essay's claim,
+kind, and fails_if), `list_pages` (by kind or tag), `open_claims` (every
+published essay's claim and the result that would show it wrong), and
+`submit_answer` (file an attributed answer; it lands as a public issue on
+the site's repository and is read). The server reads the site's own build
+artifacts at request time, so it cannot drift from what is published.
+The open-claims feed is also plain JSON at `/static/claims.json`.
+
 ## Endpoints
 
 - Whole corpus in one fetch, plain Markdown with canonical URLs:

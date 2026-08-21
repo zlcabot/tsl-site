@@ -15,4 +15,5 @@ node scripts/build-llms-full.mjs
 node scripts/inject-jsonld.mjs
 node scripts/sidenotes.mjs
 node scripts/answer-block.mjs
+node scripts/build-claims.mjs
 npx netlify-cli deploy --prod --dir=public --message "$(git log -1 --format=%h\ %s)"

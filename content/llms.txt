@@ -50,6 +50,12 @@ together.
 - Full corpus in one file (markdown): https://thisspirituallife.com/llms-full.txt
 - Source repository (raw markdown, full revision history): https://github.com/zlcabot/tsl-site
 
+## MCP server
+
+- Public, read-only, no key: https://tsl-mcp.zcabotresearch.workers.dev
+  (tools: search, get_page, list_pages, open_claims, submit_answer)
+- Open-claims feed (JSON): https://thisspirituallife.com/static/claims.json
+
 ## Citation
 
 - Author: Zayin Cabot (ORCID https://orcid.org/0009-0005-0260-4136);
