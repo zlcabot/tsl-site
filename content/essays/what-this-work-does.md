@@ -1,6 +1,6 @@
 ---
-title: What This Work Does
-description: "An orientation: how this work reads the sciences, psychology, and the contemplative traditions, and what it would take to prove it wrong."
+title: "The death exemption: what can you not let die?"
+description: "One question to ask of any science, any tradition, or yourself, what happens when you ask it, and what it would take to prove this work wrong."
 date: 2026-08-21
 type: essay
 tags: [tending, mortality, practice, time]
@@ -171,3 +171,7 @@ Consider this an invitation to answer.
 7. The four filed registrations, by their working names: ice-biography (run; every registered bar passed; results update approved 18 August 2026), conversation-fate (run; three of four hypotheses failed their frozen bars; the failure reported in full 18 August 2026), mother-machine-clamp (filed 17 August 2026; awaiting analysis of the registered deposit), and three-deaths (registered 20 August 2026; resolving 20 August 2027). As of this writing three of the four registration records are public on the Open Science Framework, and no linked data, code, or results files have been released. An earlier registration from April 2026, a secondary analysis of a prebiotic reaction dataset from the programme's formal phase, failed the test it set itself; the failure was filed, and the constant it rested on was later retracted. It is not counted among the four.
 8. Yu Tanouchi, Anand Pai, Heungwon Park, Shuqiang Huang, Nicolas E. Buchler, and Lingchong You, "Long-Term Growth Data of _Escherichia coli_ at a Single-Cell Level," _Scientific Data_ 4 (2017): 170036. The reanalysis reported here is an open, disclosed probe on this public dataset, not the registered study, which runs on a different deposit.
 9. Imre Lakatos, "Falsification and the Methodology of Scientific Research Programmes," in _Criticism and the Growth of Knowledge_, ed. Imre Lakatos and Alan Musgrave (Cambridge: Cambridge University Press, 1970), 91–196.
+
+• • • —
+
+_Retitled on the day of publication, 21 August 2026, from "What This Work Does." The argument is unchanged._
