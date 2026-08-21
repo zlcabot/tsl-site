@@ -148,3 +148,23 @@ sup a[data-footnote-ref] {
     display: block;
   }
 }
+
+// ─── Answer block (2026-08-21) ───────────────────────────────────────────
+// Site chrome appended to every published essay by scripts/answer-block.mjs.
+.answer {
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--lightgray);
+  font-size: 0.9375rem;
+}
+.answer h2 {
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+}
+.answer-label {
+  font-family: var(--codeFont);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  color: var(--gray);
+  margin-right: 0.4rem;
+}

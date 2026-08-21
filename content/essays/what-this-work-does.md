@@ -4,6 +4,8 @@ description: "One question to ask of any science, any tradition, or yourself, wh
 date: 2026-08-21
 type: essay
 kind: rereading
+claim: "Most bodies of thought excuse one thing from dying. One question finds it, and refusing the exemption changes which of a field's facts need explaining without losing any of them."
+fails_if: "A major position that exempts nothing; an inversion that loses a field's findings rather than re-pricing them; or a demonstrated master line of inheritance to which every other reduces."
 tags: [tending, mortality, time, science/biology, science/physics, tradition/buddhism]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing

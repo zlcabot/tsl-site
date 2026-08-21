@@ -4,6 +4,8 @@ description: Not a river, not a line, not a container. Happenings keeping time, 
 date: 2026-08-09
 type: essay
 kind: rereading
+claim: "A happening does not occur in time; its happening is its time. There is no container, only happenings keeping time with one another, and the line is real but local."
+fails_if: "A measurement that cannot be redescribed as coordination among rhythms and requires a container to make sense of it; or a happening that repeats."
 tags: [time, tending, mortality, science/physics, philosophy/process]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing

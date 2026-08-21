@@ -4,6 +4,8 @@ description: "Not a river, not a line, not a box you are in. There is no time to
 date: 2026-08-21
 type: essay
 kind: rereading
+claim: "There is no time to be in. There are happenings keeping time with each other, each spending, answering, and staying open, and you are one of them."
+fails_if: "A measurement that requires a container to make sense of it; a demonstrated master succession; or a happening that repeats."
 tags: [time, tending, mortality, consciousness]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing

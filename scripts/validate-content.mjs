@@ -105,6 +105,13 @@ for (const path of files) {
   if (!inDrafts && data.type === "essay" && !KINDS.has(data.kind)) {
     errors.push(`${rel}: essays require kind: rereading | bet | pointing`)
   }
+  if (!inDrafts && data.type === "essay") {
+    for (const field of ["claim", "fails_if"]) {
+      if (typeof data[field] !== "string" || data[field].trim().length < 20) {
+        errors.push(`${rel}: essays require ${field}: one sentence (the answer block is built from it)`)
+      }
+    }
+  }
   const tags = data.tags
   const topicTags = Array.isArray(tags) ? tags.filter((t) => !String(t).includes("/")) : []
   const fieldTags = Array.isArray(tags) ? tags.filter((t) => String(t).includes("/")) : []

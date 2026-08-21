@@ -10,6 +10,8 @@
 
 - For AI readers (endpoints, page types, attribution):
   https://thisspirituallife.com/ai
+- How to answer the work (claim, kind, fails_if; where results go):
+  https://thisspirituallife.com/answer
 
 ## Start here
 
