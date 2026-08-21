@@ -14,6 +14,38 @@ const TOPICS = new Set([
   "tending",
   "time",
 ])
+// Fields: a second vocabulary inside the same tags: field, written as
+// group/child. A page carries zero to three. Browse at /tags/<group> and
+// /tags/<group>/<child>. PROPOSED 2026-08-21 — trim or extend in
+// docs/editorial-workflow.md §Topics and fields and here, together.
+const FIELDS = new Set([
+  "science/physics",
+  "science/chemistry",
+  "science/biology",
+  "science/psychology",
+  "science/consciousness",
+  "science/mathematics",
+  "science/ecology",
+  "philosophy/process",
+  "philosophy/pragmatism",
+  "philosophy/phenomenology",
+  "philosophy/metaphysics",
+  "philosophy/comparative",
+  "philosophy/anthropology",
+  "tradition/buddhism",
+  "tradition/shaivism",
+  "tradition/christianity",
+  "tradition/judaism",
+  "tradition/islam",
+  "tradition/daoism",
+  "tradition/yoruba",
+  "tradition/amazonian",
+  "tradition/indigenous-americas",
+  "tradition/esoteric",
+  "practice/contemplative",
+  "practice/clinical",
+  "practice/ritual",
+])
 const SUBSTANTIVE_TYPES = new Set(["term", "essay", "wiki"])
 const ASSET_EXT = /\.(jpg|jpeg|png|gif|svg|webp|pdf|mp3|mp4|webm)$/i
 // Repeated links to one target flatten the graph and read as noise.
@@ -84,7 +116,9 @@ for (const path of files) {
     errors.push(`${rel}: topic tags must be unique`)
   }
   for (const tag of tags) {
-    if (!TOPICS.has(tag)) {
+    if (String(tag).includes("/")) {
+      if (!FIELDS.has(tag)) errors.push(`${rel}: unknown field tag ${JSON.stringify(tag)}`)
+    } else if (!TOPICS.has(tag)) {
       errors.push(`${rel}: unknown topic tag ${JSON.stringify(tag)}`)
     }
   }

@@ -320,12 +320,43 @@ of the topic pages and the essays map, not of inline links. Aliases
 carry natural phrasing: `[[the-once|once]]` reads as prose and resolves
 to the canonical page.
 
-## Topics
+## Topics and fields
 
 The frontmatter field is `tags` because Quartz uses it to create tag
-pages. On the site these are understood as **Topics**.
+pages. Inside that one field the site keeps **two vocabularies**, and
+the validator enforces both.
 
-The initial controlled vocabulary is:
+**Topics** are flat words: what a page is *about*. One to four on every
+substantive page. Small, stable, thematic.
+
+**Fields** are written `group/child`: what a page *engages*, which
+science, which philosophy, which tradition, which kind of practice.
+Zero to three on a page. Quartz renders a page for the child
+(`/tags/science/physics`) and for the group (`/tags/science`, which also
+lists its children), so fields browse at two levels without any extra
+machinery. A page about grief in a Buddhist register would carry
+`tags: [mortality, practice, tradition/buddhism]`.
+
+The field library was seeded 2026-08-21 from the primary vault's
+`domain` and `category` usage (Comparative Philosophy, Trika Śaivism,
+Buddhism, Neoplatonism, Physics, Chemistry, Neuroscience, Psychology,
+and so on). It is **proposed**, and trimmed or extended only by editing
+the table below and `scripts/validate-content.mjs` together.
+
+| Field | Use for |
+| --- | --- |
+| `science/physics` · `science/chemistry` · `science/biology` · `science/psychology` · `science/consciousness` · `science/mathematics` · `science/ecology` | a page that reads that science at its own criterion |
+| `philosophy/process` · `philosophy/pragmatism` · `philosophy/phenomenology` · `philosophy/metaphysics` · `philosophy/comparative` · `philosophy/anthropology` | a page that engages that lineage or discipline |
+| `tradition/buddhism` · `tradition/shaivism` · `tradition/christianity` · `tradition/judaism` · `tradition/islam` · `tradition/daoism` · `tradition/yoruba` · `tradition/amazonian` · `tradition/indigenous-americas` · `tradition/esoteric` | a page that engages that tradition on its own terms |
+| `practice/contemplative` · `practice/clinical` · `practice/ritual` | a page about an actual practice, something learned and done |
+
+Note the distinction the topics keep: the topic `practice` is for pages
+*about* practices as lived ways of working; the field `practice/...`
+names which kind. A page about the death exemption is not `practice`.
+
+### Topics
+
+The topic vocabulary is:
 
 | Topic           | Use for                                                                |
 | --------------- | ---------------------------------------------------------------------- |

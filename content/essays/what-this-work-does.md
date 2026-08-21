@@ -3,7 +3,7 @@ title: "The death exemption: what can you not let die?"
 description: "One question to ask of any science, any tradition, or yourself, what happens when you ask it, and what it would take to prove this work wrong."
 date: 2026-08-21
 type: essay
-tags: [tending, mortality, practice, time]
+tags: [tending, mortality, time, science/biology, science/physics, tradition/buddhism]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
 ---
