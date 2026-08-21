@@ -3,6 +3,7 @@ title: "The death exemption: what can you not let die?"
 description: "One question to ask of any science, any tradition, or yourself, what happens when you ask it, and what it would take to prove this work wrong."
 date: 2026-08-21
 type: essay
+kind: rereading
 tags: [tending, mortality, time, science/biology, science/physics, tradition/buddhism]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
@@ -107,12 +108,12 @@ What follows is the same claim stated exactly, with its apparatus exposed, so th
 
 Call it the confessed-index series. A field's foundational criterion admits an index, a reader, or a someone-for-whom, and the field's mature practice then proceeds as though it had not. The series is currently documented across six fields, each with the founding criterion quoted verbatim:
 
-- Physics. Einstein, Podolsky, and Rosen (1935) make an element of physical reality turn on what can be predicted "without in any way disturbing a system," locating the criterion in an act of prediction, after which physics writes the predictor out by design.¹
-- Chemistry. Pauling defines the bond by what it is "convenient for the chemist to consider" a unit.²
-- Biology. The Joyce and NASA working definition ("a self-sustaining chemical system capable of Darwinian evolution") indexes life to a lineage rather than to the living individual.³
-- Consciousness science. Nagel (1974) makes consciousness the case where there is something it is like to be an organism, for the organism.⁴
-- Study of religion. Durkheim (1912) defines the sacred relative to a community that sets it apart.⁵
-- Mathematics. Hardy (1940) is the limiting, denying case, asserting a mathematical reality wholly independent of any mind.⁶
+- Physics. Einstein, Podolsky, and Rosen (1935) make an element of physical reality turn on what can be predicted "without in any way disturbing a system," locating the criterion in an act of prediction, after which physics writes the predictor out by design.[^1]
+- Chemistry. Pauling defines the bond by what it is "convenient for the chemist to consider" a unit.[^2]
+- Biology. The Joyce and NASA working definition ("a self-sustaining chemical system capable of Darwinian evolution") indexes life to a lineage rather than to the living individual.[^3]
+- Consciousness science. Nagel (1974) makes consciousness the case where there is something it is like to be an organism, for the organism.[^4]
+- Study of religion. Durkheim (1912) defines the sacred relative to a community that sets it apart.[^5]
+- Mathematics. Hardy (1940) is the limiting, denying case, asserting a mathematical reality wholly independent of any mind.[^6]
 
 Five criteria confess an index; one denies it outright. The denial is treated as data, not as an exception to be explained away.
 
@@ -140,11 +141,11 @@ Beneath the three worked inversions sits a shared event-architecture, offered as
 
 An explanatory framework that cannot lose is idle. This one binds itself to loss by four independent mechanisms.
 
-1. Prospective registration. Four studies are filed on the Open Science Framework, timestamped, methods frozen, the result that would kill each written into the registration before the registered data were touched.⁷ One has run and passed every bar it set itself: a reanalysis of published ice-nucleation data, decomposing per-droplet freezing into stable character, slow drift, and residual chance. One has run and failed, and the failure is filed in full: a study of open mathematical collaborations that bet conversational timing would predict a collaboration's death before its output did, and lost three of its four bets at the bars it had frozen. One is filed and waiting on its data: a bacterial-lineage study registering both a positive prediction and a deliberate zero. And one was registered on 20 August 2026 and cannot resolve before 20 August 2027: a study of communities under threat, sealed before the outcome is knowable. Four more are drafted and not yet filed, among them a mode-resolved EEG reading of anesthesia, meditation, and sleep, and a fully prospective design for per-vessel crystallization character with its killing null stated in advance. The count that matters is not four. It is that the record already contains a failure, reported at the same grain as the success.
+1. Prospective registration. Four studies are filed on the Open Science Framework, timestamped, methods frozen, the result that would kill each written into the registration before the registered data were touched.[^7] One has run and passed every bar it set itself: a reanalysis of published ice-nucleation data, decomposing per-droplet freezing into stable character, slow drift, and residual chance. One has run and failed, and the failure is filed in full: a study of open mathematical collaborations that bet conversational timing would predict a collaboration's death before its output did, and lost three of its four bets at the bars it had frozen. One is filed and waiting on its data: a bacterial-lineage study registering both a positive prediction and a deliberate zero. And one was registered on 20 August 2026 and cannot resolve before 20 August 2027: a study of communities under threat, sealed before the outcome is knowable. Four more are drafted and not yet filed, among them a mode-resolved EEG reading of anesthesia, meditation, and sleep, and a fully prospective design for per-vessel crystallization character with its killing null stated in advance. The count that matters is not four. It is that the record already contains a failure, reported at the same grain as the success.
 
-2. Instruments allowed to say no. In a disclosed, open reanalysis, pointed at Tanouchi and colleagues' published _E. coli_ mother-machine dataset (279 lineages across roughly 69 generations at three temperatures), the same decomposition method found no per-cell character in interdivision timing (intraclass correlation 0.008), while the same cells showed substantial character in gene-expression state (ICC 0.32 to 0.43).⁸ The kept zero is load-bearing: an instrument that never returns nothing cannot be trusted when it returns something. It also carries a lesson about which variables a self-regulating system can testify through, since a cell that regulates its division timing has, by that regulation, erased the signature the timing might otherwise have carried.
+2. Instruments allowed to say no. In a disclosed, open reanalysis, pointed at Tanouchi and colleagues' published _E. coli_ mother-machine dataset (279 lineages across roughly 69 generations at three temperatures), the same decomposition method found no per-cell character in interdivision timing (intraclass correlation 0.008), while the same cells showed substantial character in gene-expression state (ICC 0.32 to 0.43).[^8] The kept zero is load-bearing: an instrument that never returns nothing cannot be trusted when it returns something. It also carries a lesson about which variables a self-regulating system can testify through, since a cell that regulates its division timing has, by that regulation, erased the signature the timing might otherwise have carried.
 3. A standing argument ledger. Arguments made, attacked, and not survived are recorded with the objection that killed each, under a rule that a ledgered argument may not return as support. A numerical constant the programme had built on for months was retracted under internal attack rather than re-derived, and the retraction is part of the permanent record.
-4. A declared standard. Lakatos drew the line between research programmes that live by generating risky predictions and those that survive by explaining their failures away.⁹ This work binds itself, in public, to the first standard, and asks to be judged there.
+4. A declared standard. Lakatos drew the line between research programmes that live by generating risky predictions and those that survive by explaining their failures away.[^9] This work binds itself, in public, to the first standard, and asks to be judged there.
 
 ### Where the weight lands
 
@@ -160,18 +161,14 @@ Consider this an invitation to answer.
 
 • • • —
 
-## Endnotes
-
-1. Albert Einstein, Boris Podolsky, and Nathan Rosen, "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" _Physical Review_ 47, no. 10 (1935): 777–780.
-2. Linus Pauling, _The Nature of the Chemical Bond and the Structure of Molecules and Crystals_, 3rd ed. (Ithaca, NY: Cornell University Press, 1960), ch. 1. First edition 1939.
-3. Gerald F. Joyce, foreword to _Origins of Life: The Central Concepts_, ed. David W. Deamer and Gail R. Fleischaker (Boston: Jones and Bartlett, 1994). The working definition originated with NASA's Exobiology Discipline Working Group in 1992 and is universally cited as the NASA definition.
-4. Thomas Nagel, "What Is It Like to Be a Bat?" _Philosophical Review_ 83, no. 4 (1974): 435–450.
-5. Émile Durkheim, _Les Formes élémentaires de la vie religieuse_ (Paris: Alcan, 1912), bk. 1, ch. 1; in English, _The Elementary Forms of Religious Life_, trans. Karen E. Fields (New York: Free Press, 1995).
-6. G. H. Hardy, _A Mathematician's Apology_ (Cambridge: Cambridge University Press, 1940).
-7. The four filed registrations, by their working names: ice-biography (run; every registered bar passed; results update approved 18 August 2026), conversation-fate (run; three of four hypotheses failed their frozen bars; the failure reported in full 18 August 2026), mother-machine-clamp (filed 17 August 2026; awaiting analysis of the registered deposit), and three-deaths (registered 20 August 2026; resolving 20 August 2027). As of this writing three of the four registration records are public on the Open Science Framework, and no linked data, code, or results files have been released. An earlier registration from April 2026, a secondary analysis of a prebiotic reaction dataset from the programme's formal phase, failed the test it set itself; the failure was filed, and the constant it rested on was later retracted. It is not counted among the four.
-8. Yu Tanouchi, Anand Pai, Heungwon Park, Shuqiang Huang, Nicolas E. Buchler, and Lingchong You, "Long-Term Growth Data of _Escherichia coli_ at a Single-Cell Level," _Scientific Data_ 4 (2017): 170036. The reanalysis reported here is an open, disclosed probe on this public dataset, not the registered study, which runs on a different deposit.
-9. Imre Lakatos, "Falsification and the Methodology of Scientific Research Programmes," in _Criticism and the Growth of Knowledge_, ed. Imre Lakatos and Alan Musgrave (Cambridge: Cambridge University Press, 1970), 91–196.
-
-• • • —
-
 _Retitled on the day of publication, 21 August 2026, from "What This Work Does." The argument is unchanged._
+
+[^1]: Albert Einstein, Boris Podolsky, and Nathan Rosen, "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" _Physical Review_ 47, no. 10 (1935): 777–780.
+[^2]: Linus Pauling, _The Nature of the Chemical Bond and the Structure of Molecules and Crystals_, 3rd ed. (Ithaca, NY: Cornell University Press, 1960), ch. 1. First edition 1939.
+[^3]: Gerald F. Joyce, foreword to _Origins of Life: The Central Concepts_, ed. David W. Deamer and Gail R. Fleischaker (Boston: Jones and Bartlett, 1994). The working definition originated with NASA's Exobiology Discipline Working Group in 1992 and is universally cited as the NASA definition.
+[^4]: Thomas Nagel, "What Is It Like to Be a Bat?" _Philosophical Review_ 83, no. 4 (1974): 435–450.
+[^5]: Émile Durkheim, _Les Formes élémentaires de la vie religieuse_ (Paris: Alcan, 1912), bk. 1, ch. 1; in English, _The Elementary Forms of Religious Life_, trans. Karen E. Fields (New York: Free Press, 1995).
+[^6]: G. H. Hardy, _A Mathematician's Apology_ (Cambridge: Cambridge University Press, 1940).
+[^7]: The four filed registrations, by their working names: ice-biography (run; every registered bar passed; results update approved 18 August 2026), conversation-fate (run; three of four hypotheses failed their frozen bars; the failure reported in full 18 August 2026), mother-machine-clamp (filed 17 August 2026; awaiting analysis of the registered deposit), and three-deaths (registered 20 August 2026; resolving 20 August 2027). As of this writing three of the four registration records are public on the Open Science Framework, and no linked data, code, or results files have been released. An earlier registration from April 2026, a secondary analysis of a prebiotic reaction dataset from the programme's formal phase, failed the test it set itself; the failure was filed, and the constant it rested on was later retracted. It is not counted among the four.
+[^8]: Yu Tanouchi, Anand Pai, Heungwon Park, Shuqiang Huang, Nicolas E. Buchler, and Lingchong You, "Long-Term Growth Data of _Escherichia coli_ at a Single-Cell Level," _Scientific Data_ 4 (2017): 170036. The reanalysis reported here is an open, disclosed probe on this public dataset, not the registered study, which runs on a different deposit.
+[^9]: Imre Lakatos, "Falsification and the Methodology of Scientific Research Programmes," in _Criticism and the Growth of Knowledge_, ed. Imre Lakatos and Alan Musgrave (Cambridge: Cambridge University Press, 1970), 91–196.

@@ -3,6 +3,7 @@ title: What is time?
 description: "Not a river, not a line, not a box you are in. There is no time to be in. There are happenings keeping time with each other, and you are one of them."
 date: 2026-08-21
 type: essay
+kind: rereading
 tags: [time, tending, mortality, consciousness]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing
@@ -57,7 +58,7 @@ Linearity is a real achievement and a local one. Where sequence-keeping and dire
 
 Each happening has its ancestry; each ecology has its settled. "The past," singular, is the timeline's freeze in temporal clothing, one record on permanent file. "The future" is nothing-yet that is not anywhere: unsettled, not unvisited. What has not yet completed has no fact yet, not merely no known fact. The unprecedented sits at every completing, not at the end of a road.
 
-No face of a happening is the past, the present, or the future. Spending is not "the past" and openness is not "the future." Tense words are readings made from inside an ecology, real as readings and never the structure.¹ Tensed self-location, the sense of being here between a behind and an ahead, belongs to beings that tend their time, not to time.
+No face of a happening is the past, the present, or the future. Spending is not "the past" and openness is not "the future." Tense words are readings made from inside an ecology, real as readings and never the structure.[^1] Tensed self-location, the sense of being here between a behind and an ahead, belongs to beings that tend their time, not to time.
 
 ### Having a time and tending it
 
@@ -67,7 +68,7 @@ Waking up, in the face's sense, is consciousness as this work holds it. Entered 
 
 ### Why the word
 
-The coinage is deliberate. "Temporality" carries Heidegger's architecture with it: three ecstases unified in one horizon, a Dasein at the center, historicity downstream.² Temporicity refuses all three. No unified horizon, no privileged center, no History. The word is awkward enough to be safe, and it names what "time" cannot without the picture coming back.
+The coinage is deliberate. "Temporality" carries Heidegger's architecture with it: three ecstases unified in one horizon, a Dasein at the center, historicity downstream.[^2] Temporicity refuses all three. No unified horizon, no privileged center, no History. The word is awkward enough to be safe, and it names what "time" cannot without the picture coming back.
 
 ### Scope, and what would show this wrong
 
@@ -77,11 +78,7 @@ Three things would count against it. A measurement that cannot be redescribed as
 
 Consider this an invitation to answer.
 
-• • • —
-
-## Endnotes
-
-1. J. M. E. McTaggart, "The Unreality of Time," _Mind_ 17, no. 68 (1908): 457–474. The distinction drawn there between the A-series (past, present, future) and the B-series (earlier, later) is what this essay declines to import into the three characters: neither series is a face of a happening.
-2. Martin Heidegger, _Sein und Zeit_ (Halle: Niemeyer, 1927); in English, _Being and Time_, trans. John Macquarrie and Edward Robinson (New York: Harper and Row, 1962), Division Two, on temporality (_Zeitlichkeit_) and its ecstases.
-
 _Further: [[time|Time (wiki)]], on how philosophy and physics have carried this question; [[tending]], the verb underneath; [[once|the once]], on why nothing repeats; and [[what-this-work-does|The death exemption]], on the one thing a picture will not let die._
+
+[^1]: J. M. E. McTaggart, "The Unreality of Time," _Mind_ 17, no. 68 (1908): 457–474. The distinction drawn there between the A-series (past, present, future) and the B-series (earlier, later) is what this essay declines to import into the three characters: neither series is a face of a happening.
+[^2]: Martin Heidegger, _Sein und Zeit_ (Halle: Niemeyer, 1927); in English, _Being and Time_, trans. John Macquarrie and Edward Robinson (New York: Harper and Row, 1962), Division Two, on temporality (_Zeitlichkeit_) and its ecstases.

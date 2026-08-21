@@ -3,6 +3,7 @@ title: What is time?
 description: Not a river, not a line, not a container. Happenings keeping time, together.
 date: 2026-08-09
 type: essay
+kind: rereading
 tags: [time, tending, mortality, science/physics, philosophy/process]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 cite: https://thisspirituallife.com/citing

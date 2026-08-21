@@ -96,3 +96,55 @@ h3 {
     }
   }
 }
+
+// ─── Sidenotes (2026-08-21) ──────────────────────────────────────────────
+// Footnotes are written as GFM footnotes; scripts/sidenotes.mjs copies
+// each note beside its reference after the build. On a wide screen the
+// note sits as a marginal block inside the reading measure and the list
+// at the foot is hidden; on a narrow screen the marginal copies hide and
+// the list shows. Quartz's right sidebar is sticky, so notes stay inside
+// the column rather than floating into the margin; revisit at the design
+// pass if the sidebar becomes sections-only.
+.sidenote {
+  display: none;
+}
+sup a[data-footnote-ref] {
+  text-decoration: none;
+  font-family: var(--codeFont);
+  font-size: 0.7em;
+  color: var(--gray);
+}
+@media (min-width: 900px) {
+  .sidenote {
+    display: block;
+    float: right;
+    clear: right;
+    width: 38%;
+    margin: 0.15rem 0 0.9rem 1.4rem;
+    padding-left: 0.75rem;
+    border-left: 1px solid var(--lightgray);
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    color: var(--darkgray);
+  }
+  .sidenote-num {
+    font-family: var(--codeFont);
+    font-size: 0.7rem;
+    color: var(--gray);
+    margin-right: 0.35rem;
+  }
+  .sidenote em {
+    font-style: italic;
+  }
+  section[data-footnotes] {
+    display: none;
+  }
+}
+@media print {
+  .sidenote {
+    display: none;
+  }
+  section[data-footnotes] {
+    display: block;
+  }
+}

@@ -13,4 +13,5 @@ npm run validate:content
 npx quartz build
 node scripts/build-llms-full.mjs
 node scripts/inject-jsonld.mjs
+node scripts/sidenotes.mjs
 npx netlify-cli deploy --prod --dir=public --message "$(git log -1 --format=%h\ %s)"

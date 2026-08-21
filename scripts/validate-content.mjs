@@ -47,6 +47,10 @@ const FIELDS = new Set([
   "practice/ritual",
 ])
 const SUBSTANTIVE_TYPES = new Set(["term", "essay", "wiki"])
+// Every essay declares what kind of claim it makes. The three kinds are the
+// essays' own: a rereading of settled evidence, a registered bet that can
+// break, or an honest pointing at what no measurement will corner.
+const KINDS = new Set(["rereading", "bet", "pointing"])
 const ASSET_EXT = /\.(jpg|jpeg|png|gif|svg|webp|pdf|mp3|mp4|webm)$/i
 // Repeated links to one target flatten the graph and read as noise.
 // Two allows a body mention plus a deliberate "Further" pointer at the foot.
@@ -98,6 +102,9 @@ for (const path of files) {
     errors.push(`${rel}: draft pages must not carry aliases`)
   }
 
+  if (!inDrafts && data.type === "essay" && !KINDS.has(data.kind)) {
+    errors.push(`${rel}: essays require kind: rereading | bet | pointing`)
+  }
   const tags = data.tags
   const topicTags = Array.isArray(tags) ? tags.filter((t) => !String(t).includes("/")) : []
   const fieldTags = Array.isArray(tags) ? tags.filter((t) => String(t).includes("/")) : []
