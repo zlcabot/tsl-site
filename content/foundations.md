@@ -47,12 +47,12 @@ from nowhere.
 
 Consciousness is the fold. Not a spark inside the skull but a
 happening that includes its own tending among what it tends, care
-that also cares for its caring: [[consciousness]].
+that also cares for its caring: consciousness.
 
 Agency is a doing, never a doer. The fold at the human scale, the
 act that knows it acts and knows it completes. Freedom lives here,
 not as escape from the happening but as the freedom to inhabit it,
-right where you are: [[agency]].
+right where you are: agency.
 
 ## The six axioms
 

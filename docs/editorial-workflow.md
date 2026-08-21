@@ -211,6 +211,48 @@ To publish a draft:
 10. deploy only on the owner's explicit word or at an agreed session
     close.
 
+## Linking
+
+Links are the site's navigation and its graph. Backlinks, the local
+graph, and the topic pages are all built from them, so a link is a
+structural act and not a decoration. Six rules.
+
+**No red links.** The primary vault seeds with links to pages that do
+not exist yet; a published site does not. A wikilink is written only
+when its target is published. `npm run validate:content` fails the
+build on a wikilink whose target does not exist, and the build command
+runs it, so a red link cannot reach production. Seeds live in the
+to-do, not in public 404s.
+
+**The pull-rule does the linking work.** When an essay needs a term the
+site does not have, either the term is written and published with the
+essay, or the essay says the thing in plain English and links nothing.
+An essay never ships pointing at a page that does not exist. This is
+the same pull-rule that governs promotion: the essay pulls the term
+through the membrane.
+
+**First substantive use, once per page.** Link a term the first time
+the page leans on it and not again. Repeated links to one target read
+as noise and flatten the graph. The validator warns above two.
+
+**Link what the argument stands on, not what it mentions.** If a reader
+who does not follow the link would misread the sentence, link it. If
+the link is a courtesy, leave it out. A page dense with links is a page
+that has not decided what it depends on.
+
+**The face links sparingly; the record links freely.** In the two-strata
+form the face is read straight through: at most two or three links, and
+none in the opening paragraph, where an interruption costs the most.
+The record is for the checker and may link each term it uses on first
+mention.
+
+**Essays link to terms; terms link to terms; essays rarely link to
+essays.** An essay-to-essay link is written when the argument actually
+depends on the other essay, never as a "see also." Browsing is the job
+of the topic pages and the essays map, not of inline links. Aliases
+carry natural phrasing: `[[the-once|once]]` reads as prose and resolves
+to the canonical page.
+
 ## Topics
 
 The frontmatter field is `tags` because Quartz uses it to create tag

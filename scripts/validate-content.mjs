@@ -15,6 +15,10 @@ const TOPICS = new Set([
   "time",
 ])
 const SUBSTANTIVE_TYPES = new Set(["term", "essay", "wiki"])
+const ASSET_EXT = /\.(jpg|jpeg|png|gif|svg|webp|pdf|mp3|mp4|webm)$/i
+// Repeated links to one target flatten the graph and read as noise.
+// Two allows a body mention plus a deliberate "Further" pointer at the foot.
+const LINK_REPEAT_LIMIT = 2
 
 function walk(dir) {
   return readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
@@ -23,7 +27,15 @@ function walk(dir) {
   })
 }
 
+function walkAll(dir) {
+  return readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
+    const path = join(dir, entry.name)
+    return entry.isDirectory() ? walkAll(path) : [path]
+  })
+}
+
 const files = walk(CONTENT)
+const warnings = []
 const errors = []
 
 for (const path of files) {
@@ -76,6 +88,74 @@ for (const path of files) {
       errors.push(`${rel}: unknown topic tag ${JSON.stringify(tag)}`)
     }
   }
+}
+
+// --- link integrity: no red links on a public site ---------------------
+// The vault seeds with red links; a published site does not. A wikilink is
+// written only when its target exists. See docs/editorial-workflow.md
+// "Linking".
+const targets = new Set()
+for (const path of files) {
+  const rel = relative(CONTENT, path).split(sep).join("/").replace(/\.md$/, "")
+  const source = readFileSync(path, "utf8")
+  const fm = source.match(/^---\r?\n([\s\S]*?)\r?\n---/)
+  let data = {}
+  try {
+    data = fm ? (parse(fm[1]) ?? {}) : {}
+  } catch {
+    data = {}
+  }
+  if (data.draft === true) continue
+  targets.add(rel)
+  targets.add(rel.split("/").pop())
+  if (rel.endsWith("/index")) {
+    targets.add(rel.slice(0, -"/index".length))
+    targets.add(rel.slice(0, -"/index".length).split("/").pop())
+  }
+  for (const alias of Array.isArray(data.aliases) ? data.aliases : []) {
+    targets.add(String(alias))
+  }
+}
+for (const path of walkAll(CONTENT)) {
+  if (ASSET_EXT.test(path)) {
+    const rel = relative(CONTENT, path).split(sep).join("/")
+    targets.add(rel)
+    targets.add(rel.split("/").pop())
+  }
+}
+for (const path of files) {
+  const rel = relative(CONTENT, path).split(sep).join("/")
+  const source = readFileSync(path, "utf8")
+  const fm = source.match(/^---\r?\n([\s\S]*?)\r?\n---/)
+  let data = {}
+  try {
+    data = fm ? (parse(fm[1]) ?? {}) : {}
+  } catch {
+    data = {}
+  }
+  if (data.draft === true) continue
+  const body = source.slice(fm ? fm[0].length : 0)
+  const seen = new Map()
+  for (const match of body.matchAll(/\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]/g)) {
+    const target = match[1].trim()
+    if (/^https?:/.test(target)) continue
+    if (!targets.has(target)) {
+      errors.push(`${rel}: wikilink to a page that does not exist: ${JSON.stringify(target)}`)
+    }
+    seen.set(target, (seen.get(target) ?? 0) + 1)
+  }
+  for (const [target, count] of seen) {
+    if (count > LINK_REPEAT_LIMIT) {
+      warnings.push(
+        `${rel}: ${JSON.stringify(target)} linked ${count} times; prefer first substantive use only`,
+      )
+    }
+  }
+}
+
+if (warnings.length > 0) {
+  console.warn(`content validation warnings (${warnings.length})`)
+  for (const warning of warnings) console.warn(`- ${warning}`)
 }
 
 if (errors.length > 0) {

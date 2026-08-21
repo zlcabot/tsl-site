@@ -1,6 +1,6 @@
 ---
 title: The World Cannot Be Saved on Schedule
-description: Urgency, plural time, and forms of agency that do not stand outside the world they change.
+description: Haraway, Akómoláfé, and Odell on urgency, plural time, and agency inside the world it changes.
 date: 2026-08-11
 type: essay
 tags: [modernity, time, agency, ecology]
@@ -11,129 +11,404 @@ draft: true
 
 # The World Cannot Be Saved on Schedule
 
-## Central question
+Everything is urgent. The climate clock counts down. A campaign has a launch date. A funder needs measurable outcomes. A government promises a transition by 2030. A phone fills every interval with updates from emergencies elsewhere. The schedule is not imaginary. People, species, and places are being injured now. Some windows really do close.
 
-What if modernity persists not only through the systems causing catastrophe but through the temporal reflex by which we try to solve catastrophe: diagnose quickly, master complexity, scale the intervention, control the outcome, and arrive on time?
+The trouble begins when the deadline becomes a model of reality. A world appears as an object moving toward failure. An agent stands outside it, selects the intervention, scales the solution, and tries to arrive on time. The form is so familiar that even movements opposing modernity can repeat modernity's preferred image of action.
 
-## Provisional thesis
+• • • —
 
-[[donna-haraway|Donna Haraway]], [[bayo-akomolafe|Báyò Akómoláfé]], and [[jenny-odell|Jenny Odell]] each interrupt the sovereign temporality of rescue. Haraway replaces self-making with [[sympoiesis|making-with]] in a thick present where living and dying are already entangled. Akómoláfé turns from heroic activism toward cracks, slowing down, sanctuary, failure, and more-than-human agency. Odell exposes standardized, exchangeable clock time as one temporal regime among many and recovers ecological, geological, bodily, and historical times. Together they approach an agency that does not stand outside the world it would change.
+## Working proposition
 
-Reflexive temporal [[tending]] can specify the positive structure: inherited tendings become re-tendable from within; response occurs across plural temporicities; attention changes the conditions of arrival without claiming to manufacture the future. Slowing down is not the principle. Appropriate timing within a braided ecology is.
+This is a writing map rather than finished prose. Each movement identifies the claims, sources, pressure points, concrete images, and transitions the long-form essay should carry.
 
-## Why this essay follows the first
+The governing proposition:
 
-- _How to Live When a World Is Dying_ asks what endings mean.
-- This essay asks what kind of response can meet an ending without reinstating sovereign control.
-- The first turns on finitude, hospice, and regeneration.
-- The second turns on urgency, attention, indirect agency, and plural temporicities.
+- [[donna-haraway|Donna Haraway]] refuses both clean rescue and terminal defeat. Her thick present contains inherited damage, living and dying, obligation, and possible composition.
+- [[bayo-akomolafe|Báyò Akómoláfé]] asks what happens when the familiar arrangement of problem, solver, and solution is part of the problem. His cracks interrupt heroic agency.
+- [[jenny-odell|Jenny Odell]] shows that the deadline's clock is one historically produced temporal regime among many. Chronodiversity returns bodily, ecological, geological, and political timings to view.
+- [[hartmut-rosa|Hartmut Rosa]] supplies the supporting diagnosis. A society that must accelerate to remain stable destroys the time and uncontrollability required for a responsive relation.
+- Reflexive temporal [[tending]] names a positive practice their encounter makes possible. The principle is not slowness. It is fit among plural timings without a sovereign clock or a guaranteed future.
 
-## Cast
+The sentence to keep testing:
 
-### Donna Haraway: stay with living and dying together
+> The opposite of control is not inaction. It is participation answerable to its own way of acting.
 
-- “Staying with the trouble” refuses both technological salvation and terminal defeatism.
-- Sympoiesis names making-with rather than self-making.
-- Response-ability is cultivated within situated multispecies relations.
-- The thick present is not passive presence. It is where inheritance, damage, obligation, and possibility are composed together.
-- Pressure point: whether Haraway offers adequate criteria for action and institutional conflict, or gives an indispensable sensibility without a sufficiently discriminating politics.
+## What the title does and does not claim
 
-### Báyò Akómoláfé: when the response is part of the problem
+- The title does not deny deadlines. A tourniquet, evacuation, court filing, harvest, and treaty negotiation can be time-critical.
+- It does not say the world cannot be changed intentionally.
+- It does not romanticize failure or delay.
+- It says that no schedule can contain the agencies, inheritances, and temporalities through which a world changes.
+- It says that a response can meet a deadline without treating the deadline as the form of time itself.
+- It says that “saving the world” becomes dangerous when the saver, world, and desired future are imagined as settled in advance.
 
-- Postactivism begins where familiar solutions and continuities no longer fit.
-- Cracks and world-ending openings redistribute agency beyond the heroic activist.
-- “The times are urgent; let us slow down” is a tactical interruption of urgency's habitual form, not a universal speed limit.
-- Making sanctuary is a practice of becoming-with broken, haunted, and more-than-human worlds.
-- Pressure point: whether poetic indirection and refusal can guide accountable action when institutions inflict immediate harm.
+## Opening movement: the emergency dashboard
 
-### Jenny Odell: time is not exhausted by the clock
+### Scene to write
 
-- Clock time is socially produced, standardized, monetized, and unequally imposed.
-- Ecological cues, geological scales, bodily rhythms, and historical layers pluralize temporal experience.
-- Attention is material and political because what becomes perceptible changes what can solicit response.
-- Odell supplies an accessible bridge from abstract temporal critique to daily life.
-- Pressure point: avoid turning ecological time into an innocent natural outside or attention into a private cure for structural conditions.
+- Open in a room organized by dashboards, clocks, targets, and alerts.
+- Possibilities include a climate conference, disaster response center, nonprofit planning meeting, hospital ward, or the ordinary screen of a person reading several emergencies at once.
+- Let the instruments remain useful. They coordinate real work and make some harms visible.
+- Then show what they cannot register: a community's refusal, a soil's recovery time, grief, an institution's learned reflexes, a relation changed by the intervention itself.
 
-### Hartmut Rosa: the supporting diagnosis
+### Conceptual turn
 
-- [[hartmut-rosa|Rosa]] names modernity's acceleration and “frenetic standstill.”
-- The drive to make the world available and controllable produces alienation from a world that can answer back.
-- Resonance requires transformation by what cannot be commanded.
-- He is a supporting diagnostician rather than a fourth principal subject because the essay's center is the practice of altered response.
+- A clock measures according to a chosen unit.
+- A deadline coordinates action according to an anticipated consequence.
+- A schedule distributes attention and authority.
+- None is neutral, but none is merely false.
+- The error is ontological promotion: treating one instrument for keeping time as the time every happening is in.
 
-## Provisional architecture
+### Rosa's diagnostic cameo
 
-### 1. The emergency clock
+- Introduce dynamic stabilization before introducing any of the three principal thinkers.
+- Modern institutions require growth, innovation, and acceleration to reproduce themselves.[^1]
+- Permanent urgency can therefore be a form of institutional stasis.
+- Rosa's frenetic standstill explains why more activity need not mean more capacity to alter the governing form.
+- Keep Rosa brief here. He names the machine. The other three change the grammar of response.
 
-- Open with the contradiction: everything is urgent, yet urgency has become permanent.
-- A deadline can coordinate real care. A permanent emergency can also abolish perception, plurality, and learning.
-- Distinguish urgency as situated fact from urgency as governing temporal regime.
+### Line to write toward
 
-### 2. Haraway: no game over, no clean rescue
+> The schedule is one of our instruments. We have mistaken it for the world it measures.
 
-- Thick present, trouble, response-ability, sympoiesis.
-- Compost as transformation without resurrection.
-- Staying as active fidelity, not static endurance.
+### Transition
 
-### 3. Akómoláfé: the crack in heroic agency
+- The first escape from the dashboard would be to hope for a superior technology.
+- The second would be to conclude that the clocks have already settled the ending.
+- Haraway refuses both.
 
-- Postactivism as interruption, not successor ideology.
-- Slowing down as availability to what the problem-setting excluded.
-- Sanctuary as a practice rather than a protected place.
-- The danger and necessity of failure.
+## Movement one: Haraway and the thick present
 
-### 4. Odell: escaping the master's clock without escaping time
+### What this section must establish
 
-- Labor time, optimization, and temporal scarcity.
-- Ecological and geological timings.
-- Attention as participation in multiple ongoing rhythms.
-- A public doorway into temporicity.
+- _Staying with the Trouble_ rejects technofix salvation and game-over despair together.[^2]
+- Both positions leap over the active present toward a guaranteed conclusion.
+- Staying is not passivity. It is disciplined involvement with the mortal beings and damaged relations already here.
 
-### 5. The difference between slowing and tending
+### The thick present
 
-- Slow can be wrong for the burning house, the endangered body, or the closing window.
-- Fast can be careful where preparation and coordination have already ripened.
-- The issue is not velocity but fit among timings, relations, inheritances, and horizons.
-- Tending asks what keeps time with what, who bears the mismatch, and what the response itself is teaching the responder.
+- The present is not a vanishing point between past and future.
+- Colonial inheritance, extraction, extinctions, technical projects, multispecies dependence, and possible recuperation act together within it.
+- Haraway's ongoingness is neither preservation nor restoration.
+- “Partial recuperation” is the right scale: damaged worlds may become more livable without returning to innocence.[^3]
 
-### 6. Reflexive temporal tending
+### Sympoiesis
 
-- Agency is not sovereign initiation. It is the reflexive inclusion through which inherited tendings become answerable and re-tendable.
-- Conscious response includes its own timing, habits, exclusions, and effects within what it tends.
-- Multiple temporicities remain real without requiring one master clock or one natural rhythm.
-- [[apurva|Apūrva]] prevents response from becoming a production schedule for novelty.
-- Attending contributes positively as directed openness and release, not as withdrawal from embodied and relational work.
+- [[sympoiesis]] replaces self-making with making-with.
+- The strongest image is not a network of independent nodes but a holobiont whose provisional participants and boundaries emerge together.
+- Making-with includes predation, asymmetry, detachment, and failed relations. Do not turn it into harmony.
+- Response-ability is cultivated inside these relations. It is capacity to answer, not merely blame assigned after the fact.[^4]
 
-## Key distinctions to protect
+### Concrete material to use
 
-| Do not collapse                   | Required distinction                                                      |
-| --------------------------------- | ------------------------------------------------------------------------- |
-| urgency / speed                   | urgency is a demand; speed is one possible response                       |
-| slowing / passivity               | slowing may be an intervention that changes what can be perceived         |
-| response-ability / responsibility | relational capacity does not cancel answerability for effects             |
-| plural time / relativism          | multiple temporicities can still conflict, constrain, and injure          |
-| ecology / innocence               | ecological rhythms are historical, disturbed, and politically distributed |
-| uncontrollability / randomness    | what cannot be commanded may still be patterned and responsive            |
-| tending / maintenance             | tending can sustain, alter, complete, release, or refuse                  |
+- String figures: receiving a pattern, altering it, and passing it on.
+- Compost: transformation without resurrection.
+- Haraway's contrast between bounded individuals in environments and sympoietic worlding.
+- One actual case from the book, preferably Black Mesa or coral holobionts, so the section does not remain atmospheric.
 
-## Red-team questions
+### Pressure point
 
-1. Does the essay romanticize slowness from a position of safety?
-2. Does distributed agency make accountability disappear?
-3. Can postactivism say when direct intervention is required?
-4. Does “staying with” understate domination, coercion, or organized violence?
-5. Does Odell's temporal plurality reach institutional design or remain primarily perceptual?
-6. Does Rosa's resonance re-center a human subject waiting for the world to answer?
-7. Is tending more operationally exact, or merely another attractive vocabulary of relationality?
-8. Can the essay state the positive operation of attending without enthroning the observer?
+- Haraway asks who lives and dies and which ties should be cut or made.
+- Still ask whether response-ability supplies sufficient criteria when institutions organize direct violence.
+- Do not accuse Haraway of lacking politics. State the narrower issue: situated relation does not remove the need to judge among incompatible interventions.
 
-## Source queue
+### Line to write toward
 
-- Close-read _Staying with the Trouble_ with special attention to sympoiesis, response-ability, living-dying, and the thick present.
-- Close-read Akómoláfé's _These Wilds Beyond Our Fences_ plus the major postactivism and sanctuary essays.
-- Close-read _Saving Time_.
-- Consolidate the existing Rosa notes on social acceleration, then read _The Uncontrollability of the World_ selectively.
+> To stay with trouble is to refuse the distance from which the world first becomes a problem to be solved.
 
-## Current stopping point
+### Transition
 
-Do not begin long-form prose. Build and test the wiki cluster first, then return with page-anchored claims and a worked distinction between altered timing and abdicated action.
+- Haraway places the responder inside the relation.
+- Akómoláfé asks what happens when that relation cracks the responder's very image of action.
+
+## Movement two: Akómoláfé and the crack in heroic agency
+
+### What this section must establish
+
+- Akómoláfé's work is not a vague preference for slowness.
+- [[postactivism]] names the point where the inherited arrangement of problem, solver, solution, and success loses its fit.[^5]
+- The crack is an event in the frame, not a tactic selected by an unchanged agent.
+
+### The middle
+
+- Use _These Wilds Beyond Our Fences_ to establish that there is no pristine beginning or final home waiting beyond the damaged present.[^6]
+- The middle is worlding, not an empty interval between secure endpoints.
+- Brokenness can be generative without becoming good.
+- Re-turn differs from restoration. The response comes back to a situation the break has altered.
+
+### Slower urgency
+
+- Present the invitation to slow down as a recursive act.[^7]
+- Urgency tends to narrow the field to established actors, levers, scales, and metrics.
+- Slowing can make the response's own habits perceptible.
+- The aim is not less action but altered availability to agencies excluded by the original problem-setting.
+
+### Sanctuary and cracks
+
+- Sanctuary is composed within damage, not found outside it.
+- Cracks can disclose more-than-human actors, unplanned solidarities, and futures the established road could not reach.
+- Monsters should remain difficult. They are figures for agencies that a stable world had to exclude, not mascots for easy difference.
+
+### Direct-harm test
+
+- Put a burning room, police assault, medical emergency, or imminent displacement beside slower urgency.
+- Ask who is being asked to wait.
+- Distinguish slowing an institution that produces harm from delaying protection for a person receiving harm.
+- A rapid protective act can interrupt a much slower violence.
+- Distributed agency must not flatten responsibility. Participation is plural; obligation remains unequal.
+
+### Line to write toward
+
+> Sometimes slowing down means stopping the machinery before it finishes what it calls progress.
+
+### Transition
+
+- To distinguish these timings, the essay needs more than fast and slow.
+- Odell opens the clock and finds a plurality of times already active beneath it.
+
+## Movement three: Odell and chronodiversity
+
+### What this section must establish
+
+- _Saving Time_ treats clock time as a historical and political achievement, not an illusion.
+- Standardized, homogeneous time develops through commerce, colonialism, transport, wage labor, and extraction.[^8]
+- Time scarcity cannot be solved privately when other people and institutions control one's schedule.
+
+### The wrong clock
+
+- Begin from Odell's overlap of burnout and climate dread.
+- The workday and ecological crisis seem to unfold on incompatible scales, yet both are organized by extractive relations.
+- The clock can show lateness for work but cannot decide whether ecological action is too late.
+- Clock time remains useful. It fails when asked to adjudicate every kind of ripeness, damage, duration, and possibility.
+
+### Chronodiversity
+
+- Use the botanical garden from _Saving Time_. Different beings grow, flower, decay, work, and visit at different tempos.[^9]
+- Chronodiversity is temporal plurality made sensible.
+- Odell's proposal to garden time gives a constructive image: protect, compose, and share rhythms rather than hoard units.
+- Add the political qualification immediately. Who has space to garden time, and whose labor maintains that space?
+
+### Attention
+
+- Draw _How to Do Nothing_ into this section without turning the essay into a second discussion of the attention economy.
+- Attention changes which happenings become capable of soliciting response.[^10]
+- Refusal-in-place is not withdrawal. It is a decision to remain answerable to a place while refusing the demand that every perception become output.
+
+### The philosophical turn
+
+- Odell pluralizes what occurs in time.
+- Tending makes the stronger claim that each happening is a temporicity.
+- A moss, strike, grief, and storm do not merely occupy different durations in one container.
+- Their happening is their time.
+- Shared time is something their rhythms accomplish together.
+
+### Pressure point
+
+- Do not contrast social time with innocent ecological time.
+- Ecosystems are historical, disturbed, engineered, and politically distributed.
+- Do not turn attention into a cure for labor domination.
+- A worker can notice plural time and still lack power over a shift.
+- The institutional question is whether people governed by a timing can participate in revising it.
+
+### Line to write toward
+
+> We do not need to escape time. We need to stop asking one clock to tell every being when it is time.
+
+### Transition
+
+- Haraway gives making-with.
+- Akómoláfé gives interruption of the sovereign response.
+- Odell gives plural temporalities.
+- The essay can now state what tending adds without presenting the three as incomplete versions of it.
+
+## Movement four: the difference between slowing and tending
+
+### The false choice
+
+- The modern command says hurry.
+- The counter-command says slow down.
+- Both can become abstract rules imposed on happenings whose own timings have not been read.
+
+### The stronger distinction
+
+- Urgency is a demand made by a situation.
+- Speed is one possible quality of response.
+- Slowing is one possible intervention into a temporal arrangement.
+- Timing concerns fit among the response, its inheritances, the other happenings it holds with, and the completions toward which they tend.
+
+### Examples to write through
+
+- A tourniquet must be fast, but the training and trust that make it careful were slow.
+- A forest restoration plan may need decades, while stopping the bulldozer may need minutes.
+- Grief cannot be scheduled, but ritual can give it shared time.
+- A deliberative process can honor plurality or become the long timetable through which power waits out resistance.
+- A scientific intervention can be technically rapid because generations of distributed work have already ripened.
+
+### Key claim
+
+- Tending is not maintenance.
+- It can sustain, alter, complete, release, interrupt, or refuse.
+- Its practical question is not “How fast?” in isolation.
+- It asks what keeps time with what, who bears a mismatch, and what the response is making available to later acts.
+
+### Line to write toward
+
+> Slow is not the opposite of violent. Fast is not the opposite of care.
+
+## Movement five: reflexive temporal tending
+
+### Agency inside the event
+
+- Agency is not a doer that owns an act.
+- It is a doing gone reflexive, a tending that includes its own action among what it tends.
+- At the human scale, this means that a response can become answerable to its framing, timing, habits, exclusions, and anticipated success.
+
+### The three ways
+
+- [[extending]]: every response erupts out of completed acts, including training, damage, institutions, prior care, and prior failure.
+- [[intending]]: the response holds different happenings in one shared while, creating an inside and outside that are themselves consequential.
+- [[attending]]: the response curves toward a completion before it possesses a complete plan.
+- None is sovereign. None can occur alone.
+
+### Consciousness and the witness problem
+
+- [[consciousness]] is not an observer detached from the emergency.
+- It is the event including its own tending among what it tends.
+- Attending can loosen an inherited reaction without leaving embodiment, history, or consequence.
+- This supplies a contemplative practice that neither enthrones a witness nor abolishes reflective distance.
+
+### Apūrva and the unscheduled future
+
+- [[apurva|Apūrva]] names the unprecedented edge of each event's own completing, where apophatic emptying and excess are one act.
+- It is not a fourth face of tending, a reserve of novelty, or a latent potency stored for a later effect.
+- Prior acts condition an event without fully determining the not-before that the event becomes in completing.
+- Preparation matters. Direction matters. Consequence matters. None derives the once from the conditions that made it possible.
+- This prevents tending from becoming a subtler technology of control without turning novelty into magic or randomness.
+
+### Rosa's return
+
+- Bring Rosa back here through uncontrollability and resonance.
+- Responsive relations can be cultivated but not manufactured.[^11]
+- Time pressure and fear can systematically prevent them.
+- Tending shares this limit while refusing to make resonance the universal criterion. Refusal, conflict, silence, and completion can also be real forms of relation.
+
+### Line to write toward
+
+> A future can be tended without becoming the product of a schedule.
+
+## The political movement: institutions that can be interrupted
+
+### What the essay must not evade
+
+- If tending remains an individual discipline, it leaves the temporal structure of domination intact.
+- Schedules are property arrangements, labor arrangements, legal arrangements, and distributions of risk.
+- The power to set the clock is political power.
+
+### Institutional questions
+
+- Who can declare an emergency?
+- Who must remain permanently available?
+- Who is made to wait?
+- Which harms receive a countdown and which are normalized as background?
+- Can a plan be revised by the beings and communities it reorganizes?
+- Does the institution preserve time for response, learning, refusal, and repair?
+- Can it recognize completion, or must every project grow to survive?
+
+### Constructive direction
+
+- Build institutions with multiple tempos rather than one universal speed.
+- Preserve rapid capacity for protection and long capacity for repair.
+- Create formal interruption points at which affected participants can reopen problem definitions and measures of success.
+- Treat monitoring as reciprocal learning, not only performance measurement.
+- Give damaged communities authority over the timetable of interventions that claim to serve them.
+- Design endings, handoffs, and decompositions rather than presuming indefinite organizational continuation.
+
+### Political caution
+
+- No procedure guarantees just timing.
+- Reflexive institutions can still perform consultation while retaining control.
+- The test is material: who can change the plan, who can refuse it, and what happens when the world answers differently than projected?
+
+## Red-team movement
+
+The finished essay should answer these objections directly rather than hiding them in notes.
+
+1. Is this an aesthetic of slowness available mainly to people protected from emergency?
+2. Does distributed agency dissolve the responsibility of powerful actors?
+3. Does staying with trouble normalize avoidable suffering?
+4. Can postactivism guide action when delay protects domination?
+5. Does chronodiversity become romantic pluralism without institutional force?
+6. Does tending offer operational distinctions, or only a new vocabulary for relational sensitivity?
+7. Can temporal fit be judged without installing an expert who claims to hear every rhythm?
+8. Does apūrva become a spiritual name for uncertainty rather than a real account of conditioned arrival?
+9. Which actual case could falsify the essay's account of altered response?
+
+## Closing movement: after the clock rings
+
+### Return to the opening scene
+
+- Return to the dashboard or planning room.
+- Do not switch it off.
+- Let an alert remain real.
+- Show one alteration in practice: a question reopened, a timetable contested, a nonhuman rhythm admitted, a community given authority, or a planned intervention stopped.
+
+### Final braid
+
+- Haraway prevents escape from damaged relation.
+- Akómoláfé prevents the responder from surviving the encounter unchanged.
+- Odell prevents one temporal regime from speaking for every happening.
+- Rosa prevents critique from ignoring the institutions that manufacture permanent urgency.
+- Tending holds the four without synthesizing away their disagreements.
+
+### Final claim
+
+- The world cannot be saved on schedule because there is no single world-object, exterior saver, or master time.
+- Worlds are made and unmade through plural happenings that inherit, answer, conflict, complete, and begin once.
+- A faithful response can be urgent, disciplined, and intentional.
+- What it cannot be is innocent of the world it is helping to make.
+
+### Last line to test
+
+> The clock may tell us when to act. It cannot tell us what our acting is becoming.
+
+## Bibliography
+
+Akomolafe, Bayo. “A Slower Urgency.” _Bayo Akomolafe_, n.d. Accessed August 11, 2026. https://www.bayoakomolafe.net/post/a-slower-urgency.
+
+Akomolafe, Bayo. _These Wilds Beyond Our Fences: Letters to My Daughter on Humanity's Search for Home_. Berkeley, CA: North Atlantic Books, 2017.
+
+Akomolafe, Bayo. “What I Mean by Postactivism.” _Bayo Akomolafe_, November 13, 2020. https://www.bayoakomolafe.net/post/what-i-mean-by-postactivism.
+
+Haraway, Donna J. _Staying with the Trouble: Making Kin in the Chthulucene_. Durham, NC: Duke University Press, 2016.
+
+Odell, Jenny. _How to Do Nothing: Resisting the Attention Economy_. Brooklyn: Melville House, 2019.
+
+Odell, Jenny. _Saving Time: Discovering a Life Beyond the Clock_. New York: Random House, 2023.
+
+Rosa, Hartmut. “The Idea of Resonance as a Sociological Concept.” _Global Dialogue_ 8, no. 2 (2018): 41–44. https://globaldialogue.isa-sociology.org/articles/the-idea-of-resonance-as-a-sociological-concept.
+
+Rosa, Hartmut. _Social Acceleration: A New Theory of Modernity_. Translated by Jonathan Trejo-Mathys. New York: Columbia University Press, 2013.
+
+Rosa, Hartmut. _The Uncontrollability of the World_. Translated by James C. Wagner. Cambridge: Polity, 2020.
+
+[^1]: Hartmut Rosa, _Social Acceleration: A New Theory of Modernity_, trans. Jonathan Trejo-Mathys (New York: Columbia University Press, 2013), 71–80, 97–112, 120–28, 299–322.
+
+[^2]: Donna J. Haraway, _Staying with the Trouble: Making Kin in the Chthulucene_ (Durham, NC: Duke University Press, 2016), 1–4.
+
+[^3]: Haraway, _Staying with the Trouble_, 10, 33–35.
+
+[^4]: Haraway, _Staying with the Trouble_, 33–35, 58–61, 126–33.
+
+[^5]: Bayo Akomolafe, “What I Mean by Postactivism,” _Bayo Akomolafe_, November 13, 2020, https://www.bayoakomolafe.net/post/what-i-mean-by-postactivism.
+
+[^6]: Bayo Akomolafe, _These Wilds Beyond Our Fences: Letters to My Daughter on Humanity's Search for Home_ (Berkeley, CA: North Atlantic Books, 2017), 43–50.
+
+[^7]: Bayo Akomolafe, “A Slower Urgency,” _Bayo Akomolafe_, n.d., accessed August 11, 2026, https://www.bayoakomolafe.net/post/a-slower-urgency.
+
+[^8]: Jenny Odell, _Saving Time: Discovering a Life Beyond the Clock_ (New York: Random House, 2023), xiii–xvi, 3–42.
+
+[^9]: Odell, _Saving Time_, 223–25.
+
+[^10]: Jenny Odell, _How to Do Nothing: Resisting the Attention Economy_ (Brooklyn: Melville House, 2019).
+
+[^11]: Hartmut Rosa, “The Idea of Resonance as a Sociological Concept,” _Global Dialogue_ 8, no. 2 (2018): 41–44, https://globaldialogue.isa-sociology.org/articles/the-idea-of-resonance-as-a-sociological-concept.

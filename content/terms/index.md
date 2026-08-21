@@ -18,7 +18,12 @@ the three ways belong to the one verb.
   - [[intending]]: with. The membrane, one shared while.
   - [[attending]]: toward. The arc, directionality before any plan.
 
-Seeded and not yet planted: [[the-once]], where every act happens
-once.
+Beyond the verb and its three ways:
 
-More are planted as the words settle.
+- [[the-once]]: every act happens once, and what completes does not
+  come back.
+- [[death-exemption|The death exemption]]: the one thing a body of
+  thought will not let die, and the question that finds it.
+
+More are planted as the words settle. A term is planted when an essay
+needs it, never on its own schedule.

@@ -14,7 +14,29 @@
 ## Start here
 
 - Tending (the heart of the work): https://thisspirituallife.com/terms/tending
+- The death exemption (the question this work carries): https://thisspirituallife.com/terms/death-exemption
 - All terms: https://thisspirituallife.com/terms/
+
+## Essays
+
+Each essay is written in two strata on one page: a face, read straight
+through, and a second half headed "The argument, precisely" that states
+the same claim exactly, with its apparatus exposed, and is written to
+stand on its own. Cite either by URL plus heading anchor.
+
+- All essays: https://thisspirituallife.com/essays/
+- The death exemption: what can you not let die? https://thisspirituallife.com/essays/what-this-work-does
+- What is time? https://thisspirituallife.com/essays/what-is-time
+
+## Topics
+
+Nine controlled topics route the corpus; every substantive page carries
+one to four. A topic page gathers essays, terms, and wiki entries
+together.
+
+- All topics: https://thisspirituallife.com/tags/
+- agency, consciousness, ecology, modernity, mortality, politics,
+  practice, tending, time
 
 ## Whole corpus
 

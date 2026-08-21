@@ -117,14 +117,14 @@ Consciousness is not a spark inside the skull, and it is not
 happening that includes its own tending among what it tends, care
 that also cares for its caring. Attending is where this is easiest
 to see, but the fold belongs to the whole act. It gets its own
-page: [[consciousness]].
+page: consciousness.
 
 Agency is that fold at the human scale, a doing and never a doer.
 No little commander sits inside. Agency is tending gone reflexive,
 the act that knows it acts and knows it completes. Its roots run
 deep, since a membrane holding itself together already has a stake
 in its own continuing, but agency proper is that stake become aware
-of itself. It, too, will get its own page: [[agency]].
+of itself. It, too, will get its own page: agency.
 
 ## The once
 
