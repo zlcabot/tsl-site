@@ -99,10 +99,15 @@ for (const path of files) {
   }
 
   const tags = data.tags
+  const topicTags = Array.isArray(tags) ? tags.filter((t) => !String(t).includes("/")) : []
+  const fieldTags = Array.isArray(tags) ? tags.filter((t) => String(t).includes("/")) : []
   if (SUBSTANTIVE_TYPES.has(data.type)) {
-    if (!Array.isArray(tags) || tags.length < 1 || tags.length > 4) {
+    if (!Array.isArray(tags) || topicTags.length < 1 || topicTags.length > 4) {
       errors.push(`${rel}: ${data.type} pages require one to four topic tags`)
       continue
+    }
+    if (fieldTags.length > 3) {
+      errors.push(`${rel}: at most three field tags (group/child)`)
     }
   } else if (tags === undefined) {
     continue
