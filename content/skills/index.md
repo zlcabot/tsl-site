@@ -13,7 +13,7 @@ assistant that takes instructions, carrying the procedure, the
 guardrails, and the route for sending back what they find. Results,
 especially failures, come home through [[answer|/answer]].
 
-- [[death-exemption (skill)|Death exemption]]: one question to ask of
+- [[death-exemption-skill|Death exemption]]: one question to ask of
   any science, tradition, theory, institution, or self, and the
   inversion that follows.
 

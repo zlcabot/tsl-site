@@ -169,6 +169,22 @@ for (const path of files) {
     targets.add(String(alias))
   }
 }
+const basenames = new Map()
+for (const path of files) {
+  const rel = relative(CONTENT, path).split(sep).join("/").replace(/\.md$/, "")
+  const source = readFileSync(path, "utf8")
+  const fm = source.match(/^---\r?\n([\s\S]*?)\r?\n---/)
+  let data = {}
+  try { data = fm ? (parse(fm[1]) ?? {}) : {} } catch { data = {} }
+  if (data.draft === true) continue
+  const base = rel.split("/").pop()
+  if (base === "index") continue
+  if (basenames.has(base)) {
+    errors.push(`${rel}: basename "${base}" is also used by ${basenames.get(base)}; wikilink resolution would be ambiguous`)
+  } else {
+    basenames.set(base, rel)
+  }
+}
 for (const path of walkAll(CONTENT)) {
   if (ASSET_EXT.test(path)) {
     const rel = relative(CONTENT, path).split(sep).join("/")
