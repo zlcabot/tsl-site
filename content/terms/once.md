@@ -3,6 +3,7 @@ title: Once
 description: Every act happens once. What completes does not come back, and nothing can be its own ancestor.
 date: 2026-08-21
 aliases:
+  - terms/the-once
   - the-once
   - the once
 type: term
