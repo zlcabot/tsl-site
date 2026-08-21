@@ -45,5 +45,19 @@
   to = "/publications"
   status = 301
 
+# MCP server: the Worker is proxied here so the public endpoint is on the
+# site's own domain and the workers.dev hostname never has to be published.
+[[redirects]]
+  from = "/mcp"
+  to = "https://tsl-mcp.zcabotresearch.workers.dev/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mcp/*"
+  to = "https://tsl-mcp.zcabotresearch.workers.dev/:splat"
+  status = 200
+  force = true
+
 [build.environment]
   NODE_VERSION = "22"

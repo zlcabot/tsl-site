@@ -16,7 +16,7 @@ gated, cloaked, or different for you than for a human reader.
 ## MCP server
 
 A public, read-only MCP server exposes the corpus to any MCP-aware agent,
-no key required: `https://tsl-mcp.zcabotresearch.workers.dev` (POST MCP
+no key required: `https://thisspirituallife.com/mcp` (POST MCP
 JSON-RPC; GET returns the tool list). Tools: `search` (full text over
 everything published), `get_page` (a page by slug, with an essay's claim,
 kind, and fails_if), `list_pages` (by kind or tag), `open_claims` (every

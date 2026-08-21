@@ -52,7 +52,7 @@ together.
 
 ## MCP server
 
-- Public, read-only, no key: https://tsl-mcp.zcabotresearch.workers.dev
+- Public, read-only, no key: https://thisspirituallife.com/mcp
   (tools: search, get_page, list_pages, open_claims, submit_answer)
 - Open-claims feed (JSON): https://thisspirituallife.com/static/claims.json
 
