@@ -12,6 +12,8 @@
   https://thisspirituallife.com/ai
 - How to answer the work (claim, kind, fails_if; where results go):
   https://thisspirituallife.com/answer
+- Skills (instruments packaged for AI agents; raw SKILL.md in the repo):
+  https://thisspirituallife.com/skills/
 
 ## Start here
 

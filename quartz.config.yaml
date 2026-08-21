@@ -240,7 +240,7 @@ plugins:
     options:
       links:
         Answer: https://thisspirituallife.com/answer
-        Letters: https://buttondown.com/thisspirituallife
+        Subscribe: https://buttondown.com/thisspirituallife
         How to cite: https://thisspirituallife.com/citing
     layout:
       position: footer
