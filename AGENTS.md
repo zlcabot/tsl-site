@@ -69,6 +69,12 @@ are the revision record.
 - The prose voice rules are strict: no em dashes in running prose, no
   bold in body text, plain-noun labels. Match the register of the
   page type you are editing.
+- Published essays are fixed: corrections only, never revision of the
+  argument. A meaning-changing correction gets a dated line in a
+  `Corrections` section at the essay's foot; an argument change is a
+  new essay or a dated postscript, never a rewrite. Terms and wikis
+  are the tended register, revised in place. Full rules in
+  `docs/editorial-workflow.md`.
 - Internal coordination metadata (private-vault paths, sync dates)
   never appears in `content/` frontmatter. Public frontmatter fields
   are: `title`, `description`, `date`, `type`, `author`, `aliases`,

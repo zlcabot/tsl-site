@@ -29,7 +29,7 @@ This is the claim, and it is simpler than the river: a happening
 does not occur in time, because its happening is its time. [[tending|To
 tend]], to reach out of what has been, with what accompanies,
 toward what calls, is not something done inside a temporal
-container. The tending is the time. "Was," "is," and "will be" are
+container. The happening is the time. "Was," "is," and "will be" are
 how acts sound from inside other acts. The words are real, but
 there is no clock outside all the happenings for them to point to,
 only happenings keeping time with happenings.
@@ -48,7 +48,7 @@ never asked to hang from.
 
 But if there is no line, doesn't everything come loose? Can't we go
 back? No, and the reason is the deepest fact this work knows: every
-act happens [[the-once|once]]. What completes does not come back.
+act happens [[once|once]]. What completes does not come back.
 Nothing can un-condition what conditioned it, and no happening can
 be its own ancestor. That is irreversibility, and notice that it
 never needed a line. One-way facts everywhere; no path anywhere.
@@ -86,4 +86,4 @@ time.
 
 _Further: [[time|Time (wiki)]], on how philosophy
 and physics have carried this question; [[tending]], the verb
-underneath; [[the-once]], on why nothing repeats._
+underneath; [[once|the once]], on why nothing repeats._

@@ -1,12 +1,12 @@
 ---
-title: The death exemption
+title: Death exemption
 description: The one thing a body of thought will not let die, and the question that finds it.
 date: 2026-08-21
 aliases:
   - death exemption
   - exemption
 type: term
-tags: [mortality, modernity, practice]
+tags: [mortality, time, tending]
 author: Zayin Cabot (https://orcid.org/0009-0005-0260-4136)
 status: canonical; revised in place
 cite: https://thisspirituallife.com/citing

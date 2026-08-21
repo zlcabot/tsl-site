@@ -68,7 +68,7 @@ its own, and "time" is the family-name for happenings keeping time
 together: braided local rhythms, coordinated by shared instruments,
 with one-way facts everywhere and no master line anywhere.
 Irreversibility survives without the timeline, because nothing can
-be its own ancestor ([[the-once]]). The lived flow survives as an
+be its own ancestor ([[once|the once]]). The lived flow survives as an
 achievement of ensembles like us, not a cosmic current. And the
 clock is honored for what it always was, coordination technology
 among rhythms.
