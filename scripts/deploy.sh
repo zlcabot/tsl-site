@@ -10,6 +10,7 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 npm run validate:content
+node scripts/build-answers.mjs
 npx quartz build
 node scripts/build-llms-full.mjs
 node scripts/inject-jsonld.mjs

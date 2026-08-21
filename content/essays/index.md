@@ -9,9 +9,10 @@ cite: https://thisspirituallife.com/citing
 
 Longer walks through one idea at a time, dated and tended. Each carries
 a short opening for reading straight through and a precise second half
-for anyone who wants the argument with its apparatus exposed. When the
-letters begin, what goes out by email lives here afterward, and the
-archive stays public.
+for anyone who wants the argument with its apparatus exposed. Essays
+live here, permanently and in public; the newsletter only announces
+them. Each ends with a way to answer it, and answers are collected in
+the [answer log](/answers/).
 
 ## Newest
 

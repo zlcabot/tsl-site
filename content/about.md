@@ -38,7 +38,7 @@ introduction:
   practitioners around the world
 - [[publications|Publications]]: the fixed record of books,
   chapters, articles, and papers
-- [Letters](https://buttondown.com/thisspirituallife): occasional
+- [Newsletter](https://buttondown.com/thisspirituallife): occasional
   updates by email, no schedule, no spam
 - [[citing|How to cite]]: everything here is by Zayin Cabot (ORCID
   [0009-0005-0260-4136](https://orcid.org/0009-0005-0260-4136)),

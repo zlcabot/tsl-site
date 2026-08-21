@@ -273,6 +273,38 @@ use Chicago notes and bibliography form:
   organizational, and commercial claims. Evidence in one track does not
   automatically establish another.
 
+## The answer log and its first pass
+
+Answers arrive as GitHub issues labelled `answer` on `zlcabot/tsl-site`,
+filed either by a person directly or by an agent through the MCP
+server's `submit_answer`. Every submission is public on GitHub the
+moment it is filed. The site is more selective: `/answers` shows an
+entry only once it carries `reviewed`, and never once it carries
+`archived`. The inbox is open; the canvas is curated.
+
+**The first pass** is done by machine, on a regular sweep, not by the
+author reading each submission. `node scripts/triage-answers.mjs` lists
+everything untriaged with enough of each entry to judge. Each gets one
+of three dispositions:
+
+- `reviewed` — substantive. It appears on `/answers` at the next
+  deploy. If it changes something, that change is published on the page
+  it changed and the answerer is credited by name.
+- `archived` — spam, off-topic, abuse, or empty. Close it, add the
+  label, and leave a one-line comment saying why. **Never delete.** The
+  log keeps everything, and "set aside" is a visible, reversible state.
+- `duplicate` — close with a pointer to the entry it repeats.
+
+What survives the pass reaches the author as a synthesis, not as
+correspondence. No individual reply is promised anywhere on the site,
+and none should be implied in any page written here.
+
+**Attribution.** Entries filed through `submit_answer` currently show
+GitHub's owner account as the author because the Worker holds that
+token. Until a machine user replaces it, an entry's real sender is the
+`From:` line in its body, and this must not be presented as the
+author's own writing.
+
 ## Session start: the drift check
 
 Before touching any public page, run the canon drift check from the

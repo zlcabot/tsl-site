@@ -19,7 +19,7 @@ Ways in:
 - [[podcast/index|Podcast]]: scholars and practitioners from around
   the world on what a spiritual life means to them.
 - [[publications|Publications]]: the work fixed in print.
-- [Letters](https://buttondown.com/thisspirituallife): occasional
+- [Newsletter](https://buttondown.com/thisspirituallife): occasional
   updates by email. No schedule, no spam.
 - [[about|About]]: the person.
 
