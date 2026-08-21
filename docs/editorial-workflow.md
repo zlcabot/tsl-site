@@ -1,3 +1,16 @@
+**Deploying (settled 2026-08-21).** Netlify auto-builds are **stopped**
+(`build_settings.stop_builds = true`, set via the API and verified the
+same day). A push to `v5` no longer deploys: pushes are free and
+unlimited, and production changes only when someone deploys
+deliberately. Deploy with
+
+    op run --env-file=.env -- ./scripts/deploy.sh
+
+which builds locally and uploads the prebuilt `public/` directory, so it
+consumes no build credits and works with builds stopped. The owner's
+standing rule holds: an AI runs it only at session close or when the
+owner says make it live.
+
 # TSL Editorial Workflow
 
 This document governs how research becomes public work on This Spiritual
