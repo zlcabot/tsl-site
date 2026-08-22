@@ -35,7 +35,7 @@ let cachedInstallToken: { token: string; expires: number } | null = null
 const b64url = (buf: ArrayBuffer | string) => {
   const bytes = typeof buf === "string" ? new TextEncoder().encode(buf) : new Uint8Array(buf)
   let s = ""
-  for (const b of bytes) s += String.fromCharCode(b)
+  for (let i = 0; i < bytes.length; i++) s += String.fromCharCode(bytes[i])
   return btoa(s).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "")
 }
 
