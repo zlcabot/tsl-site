@@ -299,11 +299,12 @@ What survives the pass reaches the author as a synthesis, not as
 correspondence. No individual reply is promised anywhere on the site,
 and none should be implied in any page written here.
 
-**Attribution.** Entries filed through `submit_answer` currently show
-GitHub's owner account as the author because the Worker holds that
-token. Until a machine user replaces it, an entry's real sender is the
-`From:` line in its body, and this must not be presented as the
-author's own writing.
+**Attribution.** An answer is somebody else's words and must never
+appear to be the author's. The Worker files it under whatever credential
+it holds: a GitHub App bot identity once one is configured (`mcp/README.md`
+has the setup), otherwise a personal token, in which case the issue shows
+the token owner's account and its footer says so. Either way the real
+sender is the `From:` line in the body.
 
 ## Session start: the drift check
 
