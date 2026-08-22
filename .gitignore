@@ -16,5 +16,3 @@ quartz/cli/tui/dist/
 .netlify
 mcp/.wrangler/
 
-# generated at build from the answer log (scripts/build-answers.mjs)
-content/answers/

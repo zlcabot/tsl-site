@@ -8,6 +8,10 @@
 // inbox is open and the canvas is curated, and no untriaged spam can
 // appear on thisspirituallife.com.
 //
+// The generated page IS committed: Quartz respects .gitignore, so an
+// ignored file is never emitted. It rewrites on every build; its diff is
+// meaningful (it changes when the answer log changes).
+//
 // Unauthenticated GitHub API (public repo, 60 req/hr) unless GITHUB_TOKEN
 // is set. Network failure is not fatal: the page is written with whatever
 // is known, so a build never breaks because GitHub is slow.

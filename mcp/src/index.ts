@@ -10,6 +10,13 @@
 interface Env {
   SITE: string
   GITHUB_REPO: string
+  /** GitHub App (preferred): answers are filed by the app's own bot
+   *  identity, so they are never attributed to the repository owner and
+   *  the credential can only touch Issues. */
+  GITHUB_APP_ID?: string
+  GITHUB_APP_PRIVATE_KEY?: string
+  /** Personal access token. Fallback only: issues appear under the
+   *  token owner's name. */
   GITHUB_TOKEN?: string
   ANSWER_LIMIT?: { limit: (o: { key: string }) => Promise<{ success: boolean }> }
 }
@@ -18,6 +25,56 @@ interface Claim { slug: string; url: string; title: string; kind: string; claim:
 interface JsonRpcRequest { jsonrpc: "2.0"; id: string | number | null; method: string; params?: Record<string, unknown> }
 interface ToolDef { name: string; description: string; inputSchema: { type: "object"; properties: Record<string, { type: string; description: string; default?: unknown }>; required?: string[] } }
 type Handler = (args: Record<string, unknown>, env: Env, req: Request) => Promise<string>
+
+// --- GitHub App auth ------------------------------------------------------
+// A short-lived JWT signed with the app's private key buys an installation
+// token, which is what actually files the issue. Cached per isolate until
+// shortly before it expires.
+let cachedInstallToken: { token: string; expires: number } | null = null
+
+const b64url = (buf: ArrayBuffer | string) => {
+  const bytes = typeof buf === "string" ? new TextEncoder().encode(buf) : new Uint8Array(buf)
+  let s = ""
+  for (const b of bytes) s += String.fromCharCode(b)
+  return btoa(s).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "")
+}
+
+async function appJwt(env: Env): Promise<string> {
+  const pem = (env.GITHUB_APP_PRIVATE_KEY ?? "").replace(/\\n/g, "\n")
+  const der = Uint8Array.from(
+    atob(pem.replace(/-----(BEGIN|END) [^-]+-----/g, "").replace(/\s+/g, "")),
+    (c) => c.charCodeAt(0),
+  )
+  const key = await crypto.subtle.importKey("pkcs8", der, { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" }, false, ["sign"])
+  const now = Math.floor(Date.now() / 1000)
+  const head = b64url(JSON.stringify({ alg: "RS256", typ: "JWT" }))
+  const body = b64url(JSON.stringify({ iat: now - 60, exp: now + 540, iss: env.GITHUB_APP_ID }))
+  const sig = await crypto.subtle.sign("RSASSA-PKCS1-v1_5", key, new TextEncoder().encode(`${head}.${body}`))
+  return `${head}.${body}.${b64url(sig)}`
+}
+
+/** Token for filing an issue, and the identity it will carry. */
+async function githubAuth(env: Env): Promise<{ token: string; as: "app" | "pat" } | null> {
+  if (env.GITHUB_APP_ID && env.GITHUB_APP_PRIVATE_KEY) {
+    const now = Math.floor(Date.now() / 1000)
+    if (cachedInstallToken && cachedInstallToken.expires > now + 60) return { token: cachedInstallToken.token, as: "app" }
+    const jwt = await appJwt(env)
+    const gh = { Accept: "application/vnd.github+json", "User-Agent": "tsl-mcp", Authorization: `Bearer ${jwt}` }
+    const [owner, repo] = env.GITHUB_REPO.split("/")
+    const inst = await fetch(`https://api.github.com/repos/${owner}/${repo}/installation`, { headers: gh })
+    if (inst.ok) {
+      const { id } = (await inst.json()) as { id: number }
+      const tok = await fetch(`https://api.github.com/app/installations/${id}/access_tokens`, { method: "POST", headers: gh })
+      if (tok.ok) {
+        const { token, expires_at } = (await tok.json()) as { token: string; expires_at: string }
+        cachedInstallToken = { token, expires: Math.floor(new Date(expires_at).getTime() / 1000) }
+        return { token, as: "app" }
+      }
+    }
+    // fall through to the PAT rather than dropping the answer
+  }
+  return env.GITHUB_TOKEN ? { token: env.GITHUB_TOKEN, as: "pat" } : null
+}
 
 const CORS = { "Access-Control-Allow-Origin": "*", "Access-Control-Allow-Methods": "GET, POST, OPTIONS", "Access-Control-Allow-Headers": "Content-Type, Authorization" }
 const json = (data: unknown, status = 200) => new Response(JSON.stringify(data), { status, headers: { "Content-Type": "application/json", ...CORS } })
@@ -145,12 +202,13 @@ const tools: { def: ToolDef; handler: Handler }[] = [
         const { success } = await env.ANSWER_LIMIT.limit({ key: ip })
         if (!success) return "Rate limited: five answers a minute. Try again shortly, or use the channels at /answer."
       }
-      if (!env.GITHUB_TOKEN) return `This channel is not open yet. Answer through ${env.SITE}/answer (reply to a letter, open an issue at https://github.com/${env.GITHUB_REPO}/issues, or publish and cite).`
+      const auth = await githubAuth(env)
+      if (!auth) return `This channel is not open yet. Answer through ${env.SITE}/answer, or file directly at https://github.com/${env.GITHUB_REPO}/issues.`
       const slug = essay.replace(env.SITE + "/", "")
-      const body = [`**Essay:** ${essay}`, `**From:** ${str(args, "name") || "(not given)"}`, `**Contact:** ${str(args, "contact") || "(not given)"}`, `**Ran:** ${str(args, "ran") || "(not given)"}`, "", "---", "", answer, "", "---", "_Submitted through the TSL MCP server's submit_answer tool. Answers are read; the ones that change something are published with a reply; see /answer._"].join("\n")
+      const body = [`**Essay:** ${essay}`, `**From:** ${str(args, "name") || "(not given)"}`, `**Contact:** ${str(args, "contact") || "(not given)"}`, `**Ran:** ${str(args, "ran") || "(not given)"}`, "", "---", "", answer, "", "---", `_Filed through the TSL MCP server's submit_answer tool by the sender named above. This is a submission, not the site author's writing.${auth.as === "pat" ? " (Filed under the repository owner's account for want of a bot identity.)" : ""} A first pass sorts the log; what it brings forward appears at ${env.SITE}/answers. See ${env.SITE}/answer._`].join("\n")
       const res = await fetch(`https://api.github.com/repos/${env.GITHUB_REPO}/issues`, {
         method: "POST",
-        headers: { Authorization: `Bearer ${env.GITHUB_TOKEN}`, Accept: "application/vnd.github+json", "User-Agent": "tsl-mcp", "Content-Type": "application/json" },
+        headers: { Authorization: `Bearer ${auth.token}`, Accept: "application/vnd.github+json", "User-Agent": "tsl-mcp", "Content-Type": "application/json" },
         body: JSON.stringify({ title: `Answer: ${slug}`, body, labels: ["answer"] }),
       })
       if (!res.ok) return `Could not file the answer (GitHub ${res.status}). Use the channels at ${env.SITE}/answer.`
